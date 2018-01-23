@@ -12,12 +12,64 @@ $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
-$white: #fff;
+$white: #e8e9f1;
+
+// Font imports
+
+@font-face {
+  font-family: 'Hind';
+  src: url('fonts/Hind/Hind-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hind';
+  src: url('fonts/Hind/Hind-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hind';
+  src: url('fonts/Hind/Hind-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('fonts/Inconsolata/Inconsolata-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('fonts/Inconsolata/Inconsolata-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+$hind: 'Hind', Helvetica, Arial, sans-serif;
+$inconsolata: 'Inconsolata', Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+
+// Typography
+
+@mixin bodyText {
+  font-family: $hind;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+@mixin calloutText {
+  font-family: $inconsolata;
+  font-weight: 400;
+}
 
 // Mobile breakpoints
 @mixin mobile {

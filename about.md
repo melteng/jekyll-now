@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hello
+permalink: /hello/
 ---
 
-Some information about you!
+[🙋🏻 cv](https://www.dropbox.com/s/w76yb946k2seepd/Melissa%20Teng%20-%202017%20CV.pdf?dl=0) - [📬 email](mailto:tengmelis@gmail.com) - [📻 twits](https://www.twitter.com/melisteng) - [📺 insta](https://www.instagram.com/mqqt_/) - [📓 github](https://github.com/melteng)
 
-### More Information
+My name is Melissa Teng and I'm an interactive designer + frontend developer with an arts and economics background. This is my digital space for (largely) paintings and drawings.
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently I am a [civic media](https://elab.emerson.edu/cmap) masters candidate at Emerson College, where I am interested in exploring the intersection of connective technologies, cultural memory, and creative placemaking. On the side, I research public participation in smart city initiatives with the [Engagement Lab](https://elab.emerson.edu/) and do web design at the [Open Documentary Lab](http://opendoclab.mit.edu/).
 
-### Contact me
+Previously I worked as the lead designer at [Datawheel](http://www.datawheel.us) creating open data platforms such as [datausa.io](https://datausa.io/), an award-winning site that reimagines how we experience government data. My work combines market, aesthetic, and HCI research as well as a deep passion for accessible and exciting user experience. I have worked across all aspects of the product design process - from product strategy, wireframing on paper/Sketch/Photoshop, visual design, to prototyping in code.
 
-[email@domain.com](mailto:email@domain.com)
+I received my undergrad degree in economics at Rice University. For the last two years, I was half of the curation team at [EMW Gallery](http://www.emwbookstore.com/), which strives to be a gallery space for artists from underrepresented, marginalized, or vulnerable communities.
