@@ -9,26 +9,37 @@ Spring 2018
 
 
 ### 1. Topic & background
-**Building Immersive/Augmented Spaces as a Collective Storytelling Process** \\
+**Immersive/Augmented Spaces as a Collective Authentic, Learning Experience** \\
 Keywords: critical world building, mixed reality, cultural memory, total cinema, performance, cult culture, Disneyfication, visual culture, internet as performance space, virtue signalling
 
 #### 1.1 background
-tbd
+- culture, status, and identity are performative;
+- increasing economic viability / social acceptance / industry use of immersive technologies like VR/AR/MR;
+- labels and easily datafied mediums (text, images, video) are privileged in today's visual and social profile culture (leading to "virtue signalling" (overuse of buzzwords in marketing/gov/academia) or slippery labels like "feminist" (Aziz Ansari));
+- overstimulating visual culture (improved SPFX in movies, accessible visuals through internet) and "Disneyfication" [spectacular commercialization] of physical environments, including urban skylines (e.g. Shanghai, Singapore, Dubai) and commercial/fun centers (e.g. Times Square, Vegas, Phuket);
+- escapism of video games, festivals (Burning Man, music festivals), virtual worlds (SecondLife), forums;
+- increasing demographic complexity in society; immersive experiences as bonding opportunities
 
 #### 1.2 context & why
-tbd
+As technologies increasingly allow people to "immerse" themselves into curated, private bubbles, it is worth exploring the potential for immersive/augmented spaces to help create authentic relationships, understanding, and solidarity.
+
 
 ### 2. Goals and Objectives
 #### 2.1 what you hope to achieve
-tbd
+Explore if there is a potential to draw lessons from historical and contemporary immersive environment-building (and world building) in approaching civic media projects, especially those addressing communities from a place of liberation.
 
 #### 2.2 objectives
-1. Explore the urban data landscape via derive; data can be visualized through sound and/or AR or mixed reality; especially focused on the experience of public spaces.
-2. Location-based AR and data visualization
+1. Study historical and contemporary immersive environments and cultures
+2. Explore how performance is used in these augmented environments to redefine the self (?)
+3. Create immersive pieces to ground readings
 
 
 ### 3. Core Project Questions
-What are the core questions that will guide your work?
+_What are the core questions that will guide your work?_
+- Historically, what were other low-tech immersive/augmented environments people created or co-opted to influence culture?
+- What are the benefits of immersive experiences in creating "real" relationships and personal/culture change? What are the limits?
+- To what extent is the performed self carried back to "reality"/society after the immersive experience is over?
+- Is there a potential to address capitalism through moving, collective immersive experiences?
 
 
 ### 4. Readings/Media
@@ -45,6 +56,11 @@ What are the core questions that will guide your work?
 - **Capital in the Twenty-First Century** by Thomas Piketty
 - **Designing Publics** by Chris Le Dantec
 - [**Data Storytelling** by Rahul Bhargava](http://datastudio2017.datatherapy.org)
+- **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
+- **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
+- **The Art of Immersion** by Frank Rose
+- **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
+- **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
 
 
 #### 4.1 Technologies
@@ -58,11 +74,13 @@ What are the core questions that will guide your work?
 
 ### 5. Deliverables
 - an audio/visual/data/virtual performance about cultural identity
+- weekly experiments on various topics
 - literature review about immersive environments and their potential for community dialogue facilitation
 
 
 ### 6. Challenges to Completion
-Offer what you anticipate to be the core challenges to your directed study.
+_Offer what you anticipate to be the core challenges to your directed study._
+tbd
 
 
 ### 7. Weekly Schedule
@@ -71,15 +89,21 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 1. **Week 1**\\
   The art of immersive/total performance (ephemerality, time-based art; Disney)\\
   _Total cinema: combination of music, visuals, performance, timing_
+  - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
+  - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
+  - **The Art of Immersion** by Frank Rose
+  - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
+  - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
 
 2. **Week 2**\\
   The art of (interactive) storytelling\\
-  _Myths, lores, classics; video game narratives_
+  _Myths, classics; video game narratives_
 
 3. **Week 3**\\
-  Storytelling that is not rooted in binary power structures\\
-  _Caste, wealth, monotheism, masculine_\\
-  Reading/media on indigenous storytelling patterns
+  Storytelling not rooted in individualism, heroism, neoliberalism\\
+  _Caste, wealth, monotheism, masculinity_\\
+  - Reading/media on indigenous storytelling patterns
+  - Feminist
 
 4. **Week 4**\\
   Constructing alternative/contrarian cultures\\
@@ -90,15 +114,14 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   Cultural "buy-in" / constructing alternative realities to incite mass movement\\
   _What motivates/incites mass movement?_\\
   - Manufacturing Consent by Noam Chomsky (maybe)
-  - On Tyranny by Timothy Snyder
   - what is democracy? when/where does it "work"?
   - who is the "public"?
   - **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
   - [**The Coming Swarm** by Molly Sauter](https://www.amazon.com/Coming-Swarm-Hacktivism-Disobedience-Internet/dp/1623564565)
 
 6. **Week 6**\\
-  How has interaction changed visual culture?\\
-   _Visual culture (interactive culture?) in the digital age_
+  How does audience participation create or influence immersive experiences?\\
+   _Mobile immersive experiences (performance in third spaces), Burning Man?_
 
 7. **Week 7**\\
   UX of immersive data visualizations for data storytelling
@@ -110,15 +133,17 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 9. **Week 9**\\
   Interactive data displays, or live visualizations from public data\\
 
+10. **Week 10**\\
+  Audio & audiovisuals as immersive experience
 
+11. **Week 11**\\
+  SecondLife and immersive virtual worlds
 
-10. **Week 10**
+12. **Week 12**\\
+  Drugs as immersive experience, in particular their ability to imprint experiences to memories
 
-11. **Week 11**
-
-12. **Week 12**
-
-13. **Week 13**
+13. **Week 13**\\
+  Dance as immersive experience
 
 14. **Week 14**
 
