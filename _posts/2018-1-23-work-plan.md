@@ -13,7 +13,7 @@ Spring 2018
 Keywords: critical world building, mixed reality, cultural memory, total cinema, performance, cult culture, Disneyfication, visual culture, internet as performance space, virtue signalling
 
 #### 1.1 background
-- culture, status, and identity are performative;
+- culture and identity are performative, negotiated;
 - increasing economic viability / social acceptance / industry use of immersive technologies like VR/AR/MR;
 - labels and easily datafied mediums (text, images, video) are privileged in today's visual and social profile culture (leading to "virtue signalling" (overuse of buzzwords in marketing/gov/academia) or slippery labels like "feminist" (Aziz Ansari));
 - overstimulating visual culture (improved SPFX in movies, accessible visuals through internet) and "Disneyfication" [spectacular commercialization] of physical environments, including urban skylines (e.g. Shanghai, Singapore, Dubai) and commercial/fun centers (e.g. Times Square, Vegas, Phuket);
@@ -79,7 +79,7 @@ _What are the core questions that will guide your work?_
 
 
 ### 6. Challenges to Completion
-_Offer what you anticipate to be the core challenges to your directed study._
+_Offer what you anticipate to be the core challenges to your directed study._\\
 tbd
 
 
@@ -146,6 +146,3 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   Dance as immersive experience
 
 14. **Week 14**
-
-- Hijack phone’s accelerometer and audio recorder and “paint” an urban walk live on a digital canvas
-- Make a controller
