@@ -10,7 +10,9 @@ Spring 2018
 
 ### 1. Topic & background
 **Immersive/Augmented Spaces as a Collective Authentic, Learning Experience** \\
-Keywords: critical world building, mixed reality, cultural memory, total cinema, performance, cult culture, Disneyfication, visual culture, internet as performance space, virtue signalling
+I'm interested in exploring constructed/induced immersive environments and how they can influence individuals' or groups' performance of culture/identity, while immersed and while outside (in memory).\\
+
+##### broad keywords: critical world building, mixed reality, cultural memory, total cinema, performance, cult culture, Disneyfication, visual culture, internet as performance space, virtue signalling
 
 #### 1.1 background
 - culture and identity are performative, negotiated;
@@ -48,19 +50,24 @@ _What are the core questions that will guide your work?_
 - [**Prototyping Pasts + Futures** by Jentery Sayers](https://jentery.github.io/ts200/) (for Technology and Society minor at UVic)
 - [**Playful Urban Spaces, A Historical Approach to Mobile Games.** by Adriana de Souza e Silva, Larissa Hjorth.](http://journals.sagepub.com/doi/abs/10.1177/1046878109333723)
 - [**Creative placemaking** by Knight Foundation](https://knightfoundation.org/articles/protecting-importance-place-creative-placemaking )
-- [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
-- **why location matters in a networked world** by Eric Gordon and Adriana de Souza e Silva
-- **Rules of Play** by Eric Zimmerman and Katie Salen
-- **Speculative design** by Dunne + Raby
-- **Adversarial design** by Carl DiSalvo
-- **Capital in the Twenty-First Century** by Thomas Piketty
-- **Designing Publics** by Chris Le Dantec
-- [**Data Storytelling** by Rahul Bhargava](http://datastudio2017.datatherapy.org)
 - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
 - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
 - **The Art of Immersion** by Frank Rose
 - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
 - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
+- [**SIMULACRA AND SIMULATION** by Jean Baudrillard](http://mysite.pratt.edu/~morourke/common/Readings/Postmodernism/Baudrillard_SimulcraSimulation.pdf)
+- [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
+- **why location matters in a networked world** by Eric Gordon and Adriana de Souza e Silva
+- **Location of Culture** by Homi Bhabha
+- **The Media and The Public: “Them” and “Us” in Media Discourse** by Stephen Coleman and Karen Ross
+- [**Prototyping Past + Futures syllabus** by Jentery Sayers](https://jentery.github.io/ts200/)
+- **Hello Avatar** by Beth Coleman
+- **Rules of Play** by Eric Zimmerman and Katie Salen
+- **Speculative design** by Dunne + Raby
+- **Adversarial design** by Carl DiSalvo
+- **Capital in the Twenty-First Century** by Thomas Piketty
+- **Designing Publics** by Chris Le Dantec
+- [**Data Storytelling syllabus** by Rahul Bhargava](http://datastudio2017.datatherapy.org)
 
 
 #### 4.1 Technologies
@@ -74,19 +81,28 @@ _What are the core questions that will guide your work?_
 
 ### 5. Deliverables
 - an audio/visual/data/virtual performance about cultural identity
-- weekly experiments on various topics
+- bi-weekly art/design/tech experiments
 - literature review about immersive environments and their potential for community dialogue facilitation
 
 
 ### 6. Challenges to Completion
-_Offer what you anticipate to be the core challenges to your directed study._\\
-tbd
+_Offer what you anticipate to be the core challenges to your directed study._
+- Scope?
 
 
 ### 7. Weekly Schedule
 _Once you have completed steps 1-6, produce a weekly schedule that follows the class and places nos. 4 & 5 specifically into a concreted plan for the semester._
 
-1. **Week 1**\\
+#### Performance, theater, dance
+- **Week 1**\\
+  Social Psychology and group Psychology; identity study
+  - [personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
+  - Location of Culture
+     - study of postcolonial construction of memory and identity
+     - Third Spaces
+
+\
+- **Week 2**\\
   The art of immersive/total performance (ephemerality, time-based art; Disney)\\
   _Total cinema: combination of music, visuals, performance, timing_
   - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
@@ -95,63 +111,80 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
   - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
 
-2. **Week 2**\\
-  The art of (interactive) storytelling OR immersive theater readings\\
+\
+- **Week 3**\\
+  The art of immersive theater OR dance as immersive experience\\
   _Myths, classics; video game narratives_\\
-  - http://howlround.com/my-tension-experience-part-1-exploring-extreme-immersive-theatre
-  - http://howlround.com/the-parasite-an-alternate-reality-game-for-orientation
-  - http://howlround.com/location-based-and-audience-aware-storytelling-grace-plains-and-bodies-for-a-global-brain
-  - http://howlround.com/an-immersive-experience-with-community-take-them-into-the-dirt
-  - http://howlround.com/the-immersive-actor
-  - http://howlround.com/immersive-and-interactive-performance-a-rasic-experience
-  - http://howlround.com/stage-managing-immersive-site-specific-and-participatory-theatre
+  - Some readings from HowlRound (P. Carl) [here](http://howlround.com/my-tension-experience-part-1-exploring-extreme-immersive-theatre), [here](http://howlround.com/the-parasite-an-alternate-reality-game-for-orientation), [here](http://howlround.com/location-based-and-audience-aware-storytelling-grace-plains-and-bodies-for-a-global-brain), [here](http://howlround.com/an-immersive-experience-with-community-take-them-into-the-dirt), [here](http://howlround.com/the-immersive-actor), [here](http://howlround.com/immersive-and-interactive-performance-a-rasic-experience), and [here](http://howlround.com/stage-managing-immersive-site-specific-and-participatory-theatre).
 
-3. **Week 3**\\
-  Storytelling not rooted in individualism, heroism, neoliberalism\\
-  _Caste, wealth, monotheism, masculinity_\\
-  - Reading/media on indigenous storytelling patterns
-  - Feminist
+\
+- **Week 4**\\
+Audio & audiovisuals as immersive experience\\
+ - sound design starting [here](https://www.youtube.com/watch?v=kavxsXhzD48)
+ - [compositional randomness](https://www.youtube.com/watch?v=cIsewG2g-1g)   
 
-4. **Week 4**\\
-  Constructing alternative/contrarian cultures\\
-  _Burning Man and other festivals, Silicon Valley, Disney World_\\
-  [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
+\
+#### Constructed Spaces online
+- **Week 5**\\
+Internet as immersive experience; interactive data displays, or live visualizations from public data\\
+ - [Generative worlds, web experiments](https://christmasexperiments.com/2017/20/aquarium/)
+ - [WebGL experiments](http://www.jam3.com/work/#mozilla-webgl)
 
-5. **Week 5**\\
-  Cultural "buy-in" / constructing alternative realities to incite mass movement\\
-  _What motivates/incites mass movement?_\\
-  - Manufacturing Consent by Noam Chomsky (maybe)
-  - what is democracy? when/where does it "work"?
-  - who is the "public"?
-  - **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
-  - [**The Coming Swarm** by Molly Sauter](https://www.amazon.com/Coming-Swarm-Hacktivism-Disobedience-Internet/dp/1623564565)
+\
+ - **Week 6**\\
+ SecondLife and immersive virtual worlds; avatars\\
+ _avatars, creation/performance of new identities_\\
+ [**Hello Avatar** by Beth Coleman](https://mitpress.mit.edu/books/hello-avatar)   
 
-6. **Week 6**\\
-  How does audience participation create or influence immersive experiences or dance as immersive experience\\
-   _Mobile immersive experiences (performance in third spaces), Burning Man?_
+\
+#### Constructed Spaces in Society
+- **Week 7**\\
+Constructing alternative/contrarian cultures; intentional communities vs. Startup culture\\
+_Burning Man and other festivals, Silicon Valley, Disney World_\\
+- [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
+- [**The Misfit Economy** by Alexa Clay](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)
 
-7. **Week 7**\\
-  UX of immersive data visualizations for data storytelling
+\
+- **Week 8**\\
+Revolution as immersion; cultural "buy-in"; constructing alternative realities to incite mass movement\\
+_What motivates/incites mass movement?_\\
+- Manufacturing Consent by Noam Chomsky (maybe)
+- what is democracy? when/where does it "work"?
+- who is the "public"?
+- **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
+- [**The Coming Swarm** by Molly Sauter](https://www.amazon.com/Coming-Swarm-Hacktivism-Disobedience-Internet/dp/1623564565)
+
+\
+- **Week 9**\\
+Hippie tourism (culture in sites like Kathmandu, San Pedro) & drugs as immersive experience, in particular their ability to imprint experiences to memories; connect to Augmented Reality technology readings
+
+\
+#### Mixed constructed virtual/physical worlds
+- **Week 10**\\
+Locational/participatory immersion: how does audience participation create or influence immersive experiences\\
+ _Mobile immersive experiences (performance in third spaces), participatory theater_\\
+- urban derive as immersive space, augmented reality historical tours
+- [videogame urbanism at UCL Bartlett](http://videogameurbanism.com/)
+- **Designing Publics** by Chris LeDantec
+
+\
+- **Week 11**\\
+  Immersive data visualizations for data storytelling\\
   _tag on some data justice reading_
+   - [On Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+   - algorithms as creators of intentional, personal bubbles: [spotify deep learning music rec system](http://hubs.ly/H06wP8m0)
 
-8. **Week 8**\\
-  Collaborative/participatory economies as alternative civic infrastructure?
+\
+- **Week 12**\\
+Storytelling not rooted in individualism, heroism, neoliberalism\\
+_Caste, wealth, monotheism, masculinity_
+- Reading/media on indigenous storytelling patterns
+
+  Alternative: Collaborative/participatory economies as alternative civic infrastructure?\\
   _digital platforms (Wikipedia), open source culture, blockchain culture_
 
-9. **Week 9**\\
-  Interactive data displays, or live visualizations from public data\\
-
-10. **Week 10**\\
-  Audio & audiovisuals as immersive experience
-  - sound design starting (here)[https://www.youtube.com/watch?v=kavxsXhzD48]
-  - compositional randomness: https://www.youtube.com/watch?v=cIsewG2g-1g
-
-11. **Week 11**\\
-  SecondLife and immersive virtual worlds
-
-12. **Week 12**\\
-  Drugs as immersive experience, in particular their ability to imprint experiences to memories
-
-13. **Week 13**\\
-
-14. **Week 14**
+\
+#### stray thoughts
+- how change happens within communities
+- the pace/hunger for change between generations
+- is being together a physical sensation or can it be "virtual"?
