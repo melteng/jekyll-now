@@ -96,8 +96,15 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
 
 2. **Week 2**\\
-  The art of (interactive) storytelling\\
-  _Myths, classics; video game narratives_
+  The art of (interactive) storytelling OR immersive theater readings\\
+  _Myths, classics; video game narratives_\\
+  - http://howlround.com/my-tension-experience-part-1-exploring-extreme-immersive-theatre
+  - http://howlround.com/the-parasite-an-alternate-reality-game-for-orientation
+  - http://howlround.com/location-based-and-audience-aware-storytelling-grace-plains-and-bodies-for-a-global-brain
+  - http://howlround.com/an-immersive-experience-with-community-take-them-into-the-dirt
+  - http://howlround.com/the-immersive-actor
+  - http://howlround.com/immersive-and-interactive-performance-a-rasic-experience
+  - http://howlround.com/stage-managing-immersive-site-specific-and-participatory-theatre
 
 3. **Week 3**\\
   Storytelling not rooted in individualism, heroism, neoliberalism\\
@@ -120,11 +127,12 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   - [**The Coming Swarm** by Molly Sauter](https://www.amazon.com/Coming-Swarm-Hacktivism-Disobedience-Internet/dp/1623564565)
 
 6. **Week 6**\\
-  How does audience participation create or influence immersive experiences?\\
+  How does audience participation create or influence immersive experiences or dance as immersive experience\\
    _Mobile immersive experiences (performance in third spaces), Burning Man?_
 
 7. **Week 7**\\
   UX of immersive data visualizations for data storytelling
+  _tag on some data justice reading_
 
 8. **Week 8**\\
   Collaborative/participatory economies as alternative civic infrastructure?
@@ -135,6 +143,8 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 
 10. **Week 10**\\
   Audio & audiovisuals as immersive experience
+  - sound design starting (here)[https://www.youtube.com/watch?v=kavxsXhzD48]
+  - compositional randomness: https://www.youtube.com/watch?v=cIsewG2g-1g
 
 11. **Week 11**\\
   SecondLife and immersive virtual worlds
@@ -143,6 +153,5 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   Drugs as immersive experience, in particular their ability to imprint experiences to memories
 
 13. **Week 13**\\
-  Dance as immersive experience
 
 14. **Week 14**
