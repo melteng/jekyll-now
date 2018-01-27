@@ -176,15 +176,21 @@ Locational/participatory immersion: how does audience participation create or in
 
 \
 - **Week 12**\\
-Storytelling not rooted in individualism, heroism, neoliberalism\\
-_Caste, wealth, monotheism, masculinity_
-- Reading/media on indigenous storytelling patterns
-
-  Alternative: Collaborative/participatory economies as alternative civic infrastructure?\\
-  _digital platforms (Wikipedia), open source culture, blockchain culture_
+  [Fluxus](http://www.fluxus.org/), space, and imprinted memories
+  - the fluxus reader (look into work of George Machiunis)
+  - Rosaland Krauss, Arthur C Danto
+  - Look at offshoots like conceptual art and performance article (Anthology of writings of conceptual art)
+  - Haroun Farouki on trauma, therapeutic VR
+  - **Matter and Memory** by Henri Bergson (AR and Memory imprinting)
+  - **The Poetics of Space** by Gaston Bachelard
+  - (Both coming out the phenomenologist school between the World Wars)
+  - **The Production of Space** by Henri Lefebvre
 
 \
 #### stray thoughts
 - how change happens within communities
 - the pace/hunger for change between generations
 - is being together a physical sensation or can it be "virtual"?
+- Storytelling not rooted in individualism, heroism, neoliberalism, masculinity
+- Indigenous storytelling traditions
+- Alternative: Collaborative/participatory economies as alternative civic infrastructure (culture within digital platforms (Wikipedia), open source, blockchain)
