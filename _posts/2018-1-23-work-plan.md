@@ -10,7 +10,7 @@ Spring 2018
 
 ### 1. Topic & background
 **Immersive/Augmented Spaces as a Collective Authentic, Learning Experience** \\
-I'm interested in exploring constructed/induced immersive environments and how they can influence individuals' or groups' performance of culture/identity, while immersed and while outside (in memory).\\
+I'm interested in exploring constructed/induced immersive environments and how they can influence individuals' or groups' performance of culture/identity, while immersed and while outside (in memory). What is the civic potential for AR and what were the civic uses of various "augmented" spaces throughout history?\\
 
 ##### broad keywords: critical world building, mixed reality, cultural memory, total cinema, performance, cult culture, Disneyfication, visual culture, internet as performance space, virtue signalling
 
@@ -95,7 +95,7 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 
 #### Performance, theater, dance
 - **Week 1**\\
-  Social Psychology and group Psychology; identity study
+  Social Psychology and group Psychology; identity study; the art of performing self (Fluxus)
   - [personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
   - Location of Culture
      - study of postcolonial construction of memory and identity
@@ -156,7 +156,8 @@ _What motivates/incites mass movement?_\\
 
 \
 - **Week 9**\\
-Hippie tourism (culture in sites like Kathmandu, San Pedro) & drugs as immersive experience, in particular their ability to imprint experiences to memories; connect to Augmented Reality technology readings
+Eastern religion-inspired tourism (culture in sites like Kathmandu, San Pedro) & drugs as immersive experience, in particular their ability to imprint experiences to memories; connect to Augmented Reality technology readings
+- **The Medium is the Message** by Marshall McLuhan
 
 \
 #### Mixed constructed virtual/physical worlds
@@ -169,14 +170,15 @@ Locational/participatory immersion: how does audience participation create or in
 
 \
 - **Week 11**\\
-  Immersive data visualizations for data storytelling\\
-  _tag on some data justice reading_
-   - [On Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-   - algorithms as creators of intentional, personal bubbles: [spotify deep learning music rec system](http://hubs.ly/H06wP8m0)
+  Portable immersive worlds\\
+  _Fluxus "art kits"_
+  - portable video cameras
+  - street circuses or performance
+  - AR headsets
 
 \
 - **Week 12**\\
-  [Fluxus](http://www.fluxus.org/), space, and imprinted memories
+  Dada and [Fluxus](http://www.fluxus.org/) influences on thinking about space, and imprinted memories
   - the fluxus reader (look into work of George Machiunis)
   - Rosaland Krauss, Arthur C Danto
   - Look at offshoots like conceptual art and performance article (Anthology of writings of conceptual art)
@@ -194,3 +196,5 @@ Locational/participatory immersion: how does audience participation create or in
 - Storytelling not rooted in individualism, heroism, neoliberalism, masculinity
 - Indigenous storytelling traditions
 - Alternative: Collaborative/participatory economies as alternative civic infrastructure (culture within digital platforms (Wikipedia), open source, blockchain)
+- algorithms as creators of intentional, personal bubbles: [spotify deep learning music rec system](http://hubs.ly/H06wP8m0)
+- [On Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
