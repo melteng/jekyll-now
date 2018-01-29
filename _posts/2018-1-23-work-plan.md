@@ -72,7 +72,7 @@ _What are the core questions that will guide your work?_
 
 #### 4.1 Technologies
 - Javascript [here](https://zachholman.com/posts/javacript-haters) + [here](https://github.com/bpesquet/thejsway/), specifically [p5.js](https://www.youtube.com/user/shiffman), [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API), [Three.js](https://threejs.org/)
-- VR: [Unity](https://www.udemy.com/vrcourse/learn/v4/overview) (C#) + ["Hardware"](Google cardboard)
+- VR: [Unity](https://www.udemy.com/vrcourse/learn/v4/overview) (C#) + ["Hardware"](Google cardboard) + [JS-based prototyping tools](https://viromedia.com/viroreact/)
 - video software: AfterEffects + Cinema4D
 - vj software (for projection mapping): [Resolume](https://resolume.com/)
 - 3D modeling software: Blender, Maya
@@ -80,14 +80,14 @@ _What are the core questions that will guide your work?_
 
 
 ### 5. Deliverables
-- an audio/visual/data/virtual performance about cultural identity
-- bi-weekly art/design/tech experiments
+- bi-weekly (web-based) vr/ar experiments
 - literature review about immersive environments and their potential for community dialogue facilitation
+- an audio/visual/data performance about cultural identity, through an ar/vr app/site or projection mapped space
 
 
 ### 6. Challenges to Completion
 _Offer what you anticipate to be the core challenges to your directed study._
-- Scope?
+- Scope
 
 
 ### 7. Weekly Schedule
@@ -148,11 +148,13 @@ _Burning Man and other festivals, Silicon Valley, Disney World_\\
 - **Week 8**\\
 Revolution as immersion; cultural "buy-in"; constructing alternative realities to incite mass movement\\
 _What motivates/incites mass movement?_\\
-- Manufacturing Consent by Noam Chomsky (maybe)
+- **Manufacturing Consent** by Noam Chomsky (maybe)
 - what is democracy? when/where does it "work"?
 - who is the "public"?
+- alternatives to capitalism (maybe)
 - **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
-- [**The Coming Swarm** by Molly Sauter](https://www.amazon.com/Coming-Swarm-Hacktivism-Disobedience-Internet/dp/1623564565)
+- [**The Coming Swarm** by Molly Sauter](https://www.amazon.com/Coming-Swarm-Hacktivism-Disobedience-Internet/dp/1623564565) (maybe)
+- [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
 
 \
 - **Week 9**\\
@@ -198,3 +200,4 @@ Locational/participatory immersion: how does audience participation create or in
 - Alternative: Collaborative/participatory economies as alternative civic infrastructure (culture within digital platforms (Wikipedia), open source, blockchain)
 - algorithms as creators of intentional, personal bubbles: [spotify deep learning music rec system](http://hubs.ly/H06wP8m0)
 - [On Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- These Open Source podcasts: on [democracy after fb](http://radioopensource.org/democracy-after-facebook/); [intelligence by design (aka human 3.0)](http://radioopensource.org/intelligence-by-design/); ["your brain on Trump"](http://radioopensource.org/this-is-your-brain-on-trump/); [the "scramble for Amazon's HQ2"](http://radioopensource.org/the-scramble-for-amazon/); [displacement v. gentrifying city](http://radioopensource.org/gimme-shelter/)
