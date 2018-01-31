@@ -9,30 +9,36 @@ Spring 2018
 
 
 ### 1. Topic & background
-**Immersive/Augmented Spaces as a Collective Authentic, Learning Experience** \\
-I'm interested in exploring constructed/induced immersive environments and how they can influence individuals' or groups' performance of culture/identity, while immersed and while outside (in memory). What is the civic potential for AR and what were the civic uses of various "augmented" spaces throughout history?\\
+**immersive spaces for constructing civic imagination** \\
+As mixed reality and IoT technologies increasingly allow people to "immerse" themselves into curated, augmented experiences, it is worth exploring the potential for these spaces to inspire a greater [civic imagination](https://www.civicimaginationproject.org/theory) -- or "the capacity to imagine alternatives to current cultural, social, political, or economic conditions."
 
-##### broad keywords: critical world building, mixed reality, cultural memory, total cinema, performance, cult culture, Disneyfication, visual culture, internet as performance space, virtue signalling
+In particular, I am interested in *temporary* immersive spaces (ephemeral, portable, "vacation" spaces) and the opportunities created by these flash alternative experiences to perform and re-imagine the *self* and the *self in relation to society*, especially in ways that carry back into "reality / in memory.
+
+To this end, I will start with a field scan of other constructed/appropriated temporary immersive spaces and how they were used to explore and bolster civic imagination. Readings will be supplemented with regular technology/design experiments. Last, I will build my own immersive performance experience inspired by one topic area or project studied this semester. I imagine the medium will be an AR app but the medium is flexible. A potential prompt would be a re-imagining of gentrifying neighborhoods.
+
+##### broad keywords: civic imagination, critical world building, mixed reality, total cinema, identity performance, cult culture, Disneyfication, social script
 
 #### 1.1 background
-- culture and identity are performative, negotiated;
-- increasing economic viability / social acceptance / industry use of immersive technologies like VR/AR/MR;
-- labels and easily datafied mediums (text, images, video) are privileged in today's visual and social profile culture (leading to "virtue signalling" (overuse of buzzwords in marketing/gov/academia) or slippery labels like "feminist" (Aziz Ansari));
-- overstimulating visual culture (improved SPFX in movies, accessible visuals through internet) and "Disneyfication" [spectacular commercialization] of physical environments, including urban skylines (e.g. Shanghai, Singapore, Dubai) and commercial/fun centers (e.g. Times Square, Vegas, Phuket);
-- escapism of video games, festivals (Burning Man, music festivals), virtual worlds (SecondLife), forums;
-- increasing demographic complexity in society; immersive experiences as bonding opportunities
+- Decreasing cost and barrier to entry of immersion (or escapism): through screens/headphones (mobile devices/mp3 players), the Internet (social media, virtual worlds like SecondLife), video games, festivals (e.g. Burning Man), backpacker tourism (e.g. Kathmandu, San Pedro, Bali), guilty pleasure vacations (Vegas, Times Square, Phuket), drugs, mixed reality technologies.
+- A need to reimagine and redesign existing civic infrastructure, rooted in exclusion, in the face of increasingly complex demographics in society.
 
-#### 1.2 context & why
-As technologies increasingly allow people to "immerse" themselves into curated, private bubbles, it is worth exploring the potential for immersive/augmented spaces to help create authentic relationships, understanding, and solidarity.
+##### Broad weekly themes
+
+1. Civic imagination: what is it? / Social psychology: how do we reflect on/construct ourselves and ourselves in relation to others?
+2. Temporary immersion through vacations (paying to immerse): festivals, tourism
+3. Temporary immersion through performance: total theater, philosophy of theater
+4. Portable immersion: drugs, AR/VR
+5. Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
+6. Experiment, test
 
 
 ### 2. Goals and Objectives
 #### 2.1 what you hope to achieve
-Explore if there is a potential to draw lessons from historical and contemporary immersive environment-building (and world building) in approaching civic media projects, especially those addressing communities from a place of liberation.
+To study historical and contemporary immersive environments in approaching civic media projects, learn the technologies involved in AR development, create an immersive piece using AR.
 
 #### 2.2 objectives
 1. Study historical and contemporary immersive environments and cultures
-2. Explore how performance is used in these augmented environments to redefine the self (?)
+2. Explore how performance is used in these augmented environments to redefine the self and the self in relation to others
 3. Create immersive pieces to ground readings
 
 
@@ -96,6 +102,7 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 #### Performance, theater, dance
 - **Week 1**\\
   Social Psychology and group Psychology; identity study; the art of performing self (Fluxus)
+  - social scripts
   - [personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
   - Location of Culture
      - study of postcolonial construction of memory and identity
@@ -201,3 +208,5 @@ Locational/participatory immersion: how does audience participation create or in
 - algorithms as creators of intentional, personal bubbles: [spotify deep learning music rec system](http://hubs.ly/H06wP8m0)
 - [On Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 - These Open Source podcasts: on [democracy after fb](http://radioopensource.org/democracy-after-facebook/); [intelligence by design (aka human 3.0)](http://radioopensource.org/intelligence-by-design/); ["your brain on Trump"](http://radioopensource.org/this-is-your-brain-on-trump/); [the "scramble for Amazon's HQ2"](http://radioopensource.org/the-scramble-for-amazon/); [displacement v. gentrifying city](http://radioopensource.org/gimme-shelter/)
+- labels and easily datafied mediums (text, images, video) are privileged in today's visual and social profile culture (leading to "virtue signalling" (overuse of buzzwords in marketing/gov/academia) or slippery labels like "feminist" (Aziz Ansari));
+- an overstimulating visual culture: improved SPFX in movies and "Disneyfication" [spectacular commercialization] of physical environments, including urban skylines (e.g. Shanghai, Singapore, Dubai)
