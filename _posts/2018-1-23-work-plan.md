@@ -101,13 +101,16 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 
 
 #### 7.2. How do we know ourselves? How do we know ourselves in relation to others?
-- **Social psychology and group psychology**: how do we reflect on/construct ourselves and ourselves in relation to others?
+- **Social psychology and group psychology**: how do we reflect on/construct ourselves and ourselves in relation to others? *Can we construct from a place of liberation?*
 - **Performance of identity and culture**; creation of third spaces
   - Social scripts (reading TBD)
   - [Personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
   - **Location of Culture** by Homi Bhabha
      - Study of postcolonial construction of memory and identity
      - Third Spaces
+  - **killing rage: ending racism** by bell hooks
+  - **all about love: new visions** by bell hooks
+
 
 #### 7.3. Temporary immersion through performance art: total theater, philosophy of theater, Fluxus
 - [Fluxus](http://www.fluxus.org/): the art of performing self; influences on thinking about space; imprinted memories
@@ -129,19 +132,23 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - Tourism:
   - Eastern religion-inspired tourism (culture in sites like Kathmandu, San Pedro)
 - Extra: Cults - constructing alternative/contrarian cultures; intentional communities vs. Startup culture
-  - [**The Misfit Economy** by Alexa Clay](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)   
+  - [**The Misfit Economy** by Alexa Clay](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)
+  - Jonestown in Guyana
 
 #### 7.5. Portable immersion: drugs, AR/VR, pop up spaces
 - Drugs as immersive experience, in particular their ability to imprint experiences to memories
 - Pop-up spaces
 - Audio & audiovisuals as immersive experience\\
- - Sound design starting [here](https://www.youtube.com/watch?v=kavxsXhzD48)
- - [Compositional randomness](https://www.youtube.com/watch?v=cIsewG2g-1g)
+  - Sound design starting [here](https://www.youtube.com/watch?v=kavxsXhzD48)
+  - [Compositional randomness](https://www.youtube.com/watch?v=cIsewG2g-1g)
+- Projection mapping; temporary skins on built environment (see [World Trade Center elevator video](https://www.youtube.com/watch?v=cKTPaqbXrAY))
+- AR walking tours (urban dérive)
 
 #### 6. Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
 - Constructed worlds/amusement parks: Disneyworld
 - Virtual worlds: SecondLife and immersive virtual worlds & avatars
    - [**Hello Avatar** by Beth Coleman](https://mitpress.mit.edu/books/hello-avatar)
+   - [**The influence of racial embodiment on racial bias in immersive virtual environments** by V. Groom, J. Bailenson, C. Nass](https://vhil.stanford.edu/mm/2009/groom-racial-embodiment.pdf)
    - [Generative worlds, web experiments](https://christmasexperiments.com/2017/20/aquarium/)
    - [WebGL experiments](http://www.jam3.com/work/#mozilla-webgl)
 
@@ -191,5 +198,3 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - **Designing Publics** by Chris Le Dantec
 - [**Data Storytelling syllabus** by Rahul Bhargava](http://datastudio2017.datatherapy.org)
 - **Radical Technologies** by Adam Greenfield
-- **killing rage: ending racism** by bell hooks
-- **all about love: new visions** by bell hooks
