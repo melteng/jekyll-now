@@ -45,29 +45,19 @@ _What are the core questions that will guide your work?_
 
 ### 4. Readings/Media
 
-- [**Tubes** by Andrew Blum ](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952)
-- [**Prototyping Pasts + Futures** by Jentery Sayers](https://jentery.github.io/ts200/) (for Technology and Society minor at UVic)
-- [**Playful Urban Spaces, A Historical Approach to Mobile Games.** by Adriana de Souza e Silva, Larissa Hjorth.](http://journals.sagepub.com/doi/abs/10.1177/1046878109333723)
-- [**Creative placemaking** by Knight Foundation](https://knightfoundation.org/articles/protecting-importance-place-creative-placemaking )
 - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
 - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
 - **The Art of Immersion** by Frank Rose
 - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
 - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
 - [**SIMULACRA AND SIMULATION** by Jean Baudrillard](http://mysite.pratt.edu/~morourke/common/Readings/Postmodernism/Baudrillard_SimulcraSimulation.pdf)
-- [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
-- **why location matters in a networked world** by Eric Gordon and Adriana de Souza e Silva
 - **Location of Culture** by Homi Bhabha
 - **The Media and The Public: “Them” and “Us” in Media Discourse** by Stephen Coleman and Karen Ross
-- [**Prototyping Past + Futures syllabus** by Jentery Sayers](https://jentery.github.io/ts200/)
 - **Hello Avatar** by Beth Coleman
-- **Rules of Play** by Eric Zimmerman and Katie Salen
-- **Speculative design** by Dunne + Raby
-- **Adversarial design** by Carl DiSalvo
-- **Capital in the Twenty-First Century** by Thomas Piketty
-- **Designing Publics** by Chris Le Dantec
-- [**Data Storytelling syllabus** by Rahul Bhargava](http://datastudio2017.datatherapy.org)
-
+- [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
+- **Matter and Memory** by Henri Bergson (AR and memory imprinting)
+- **The Poetics of Space** by Gaston Bachelard
+- **The Production of Space** by Henri Lefebvre
 
 #### 4.1 Technologies
 - Javascript [here](https://zachholman.com/posts/javacript-haters) + [here](https://github.com/bpesquet/thejsway/), specifically [p5.js](https://www.youtube.com/user/shiffman), [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API), [Three.js](https://threejs.org/)
@@ -96,9 +86,6 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - **Civic imagination**: what is it?
   - [**Textual Poachers: Television Fans and Participatory Culture** by Henry Jenkins](https://www.amazon.com/Textual-Poachers-Television-Participatory-Culture/dp/0415533295)
   - [**By Any Media Necessary: The New Youth Activism** by Henry Jenkins, Sangita Shresthova, Liana Gamber-Thompson, Neta Kligler-Vilenchik, Arely Zimmerman](https://nyupress.org/books/9781479899982/)
-- Alternatives to capitalism
-  - [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
-  - **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
 - **Immersive storytelling**
   - - **The Medium is the Message** by Marshall McLuhan
   - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
@@ -106,6 +93,12 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   - **The Art of Immersion** by Frank Rose
   - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
   - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
+- Extra: Alternatives to capitalism
+    - [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
+    - **teaching to transgress** by bell hooks
+    - **Pedagogy of the Oppressed** by Paulo Freire
+    - **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
+
 
 #### 7.2. How do we know ourselves? How do we know ourselves in relation to others?
 - **Social psychology and group psychology**: how do we reflect on/construct ourselves and ourselves in relation to others?
@@ -142,8 +135,8 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - Drugs as immersive experience, in particular their ability to imprint experiences to memories
 - Pop-up spaces
 - Audio & audiovisuals as immersive experience\\
- - sound design starting [here](https://www.youtube.com/watch?v=kavxsXhzD48)
- - [compositional randomness](https://www.youtube.com/watch?v=cIsewG2g-1g)
+ - Sound design starting [here](https://www.youtube.com/watch?v=kavxsXhzD48)
+ - [Compositional randomness](https://www.youtube.com/watch?v=cIsewG2g-1g)
 
 #### 6. Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
 - Constructed worlds/amusement parks: Disneyworld
@@ -170,8 +163,8 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 #### 12. Prototype
 - Final piece
 
-\
-#### stray thoughts
+
+### stray thoughts
 - how change happens within communities
 - the pace/hunger for change between generations
 - is being together a physical sensation or can it be "virtual"?
@@ -183,3 +176,20 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - These Open Source podcasts: on [democracy after fb](http://radioopensource.org/democracy-after-facebook/); [intelligence by design (aka human 3.0)](http://radioopensource.org/intelligence-by-design/); ["your brain on Trump"](http://radioopensource.org/this-is-your-brain-on-trump/); [the "scramble for Amazon's HQ2"](http://radioopensource.org/the-scramble-for-amazon/); [displacement v. gentrifying city](http://radioopensource.org/gimme-shelter/)
 - labels and easily datafied mediums (text, images, video) are privileged in today's visual and social profile culture (leading to "virtue signalling" (overuse of buzzwords in marketing/gov/academia) or slippery labels like "feminist" (Aziz Ansari));
 - an overstimulating visual culture: improved SPFX in movies and "Disneyfication" [spectacular commercialization] of physical environments, including urban skylines (e.g. Shanghai, Singapore, Dubai)
+
+### Supplementary readings
+
+- [**Tubes** by Andrew Blum ](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952)
+- [**Prototyping Pasts + Futures** by Jentery Sayers](https://jentery.github.io/ts200/) (for Technology and Society minor at UVic)
+- [**Playful Urban Spaces, A Historical Approach to Mobile Games.** by Adriana de Souza e Silva, Larissa Hjorth.](http://journals.sagepub.com/doi/abs/10.1177/1046878109333723)
+- [**Creative placemaking** by Knight Foundation](https://knightfoundation.org/articles/protecting-importance-place-creative-placemaking )
+- **why location matters in a networked world** by Eric Gordon and Adriana de Souza e Silva
+- **Rules of Play** by Eric Zimmerman and Katie Salen
+- **Speculative design** by Dunne + Raby
+- **Adversarial design** by Carl DiSalvo
+- **Capital in the Twenty-First Century** by Thomas Piketty
+- **Designing Publics** by Chris Le Dantec
+- [**Data Storytelling syllabus** by Rahul Bhargava](http://datastudio2017.datatherapy.org)
+- **Radical Technologies** by Adam Greenfield
+- **killing rage: ending racism** by bell hooks
+- **all about love: new visions** by bell hooks
