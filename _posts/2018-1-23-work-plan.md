@@ -12,9 +12,11 @@ Spring 2018
 **immersive spaces for constructing civic imagination** \\
 As mixed reality and IoT technologies increasingly allow people to "immerse" themselves into curated, augmented experiences, it is worth exploring the potential for these spaces to inspire a greater [civic imagination](https://www.civicimaginationproject.org/theory) -- or "the capacity to imagine alternatives to current cultural, social, political, or economic conditions."
 
-In particular, I am interested in *temporary* immersive spaces (ephemeral, portable, "vacation" spaces) and the opportunities created by these flash alternative experiences to perform and re-imagine the *self* and the *self in relation to society*, especially in ways that carry back into "reality / in memory.
+In particular, I am interested in temporary immersive spaces (ephemeral, portable, "vacation" spaces) and the learning opportunities created by these alternative experiences to perform and re-imagine the *self* and the *self in relation to society*, especially in ways that carry back into "reality" (or in memory).
 
-To this end, I will start with a field scan of other constructed/appropriated temporary immersive spaces and how they were used to explore and bolster civic imagination. Readings will be supplemented with regular technology/design experiments. Last, I will build my own immersive performance experience inspired by one topic area or project studied this semester. I imagine the medium will be an AR app but the medium is flexible. A potential prompt would be a re-imagining of gentrifying neighborhoods.
+Freud described personal memory as being constructed, drawn from an untapped, unconscious memory bank, while David Lowenthal wrote, "The past is a foreign country." On a societal level, scholars have written about the malleability of cultural memory and need for reflexive historical processes. As our collective remembered realities are increasingly "mixed" (virtual or augmented), what are the opportunities for cultivating a stronger and far-reaching civic imagination?
+
+I will start with a field scan of other constructed/appropriated temporary immersive spaces and how they were used to explore and bolster civic imagination. Readings will be supplemented with regular technology/design experiments. Last, I will build my own immersive performance experience inspired by one topic area or project studied this semester. I imagine the medium will be a VR app but the medium is flexible. A potential prompt would be a re-imagining of gentrifying neighborhoods.
 
 ##### broad keywords: civic imagination, critical world building, mixed reality, total cinema, identity performance, cult culture, Disneyfication, social script
 
@@ -22,19 +24,10 @@ To this end, I will start with a field scan of other constructed/appropriated te
 - Decreasing cost and barrier to entry of immersion (or escapism): through screens/headphones (mobile devices/mp3 players), the Internet (social media, virtual worlds like SecondLife), video games, festivals (e.g. Burning Man), backpacker tourism (e.g. Kathmandu, San Pedro, Bali), guilty pleasure vacations (Vegas, Times Square, Phuket), drugs, mixed reality technologies.
 - A need to reimagine and redesign existing civic infrastructure, rooted in exclusion, in the face of increasingly complex demographics in society.
 
-##### Broad weekly themes
-
-1. Civic imagination: what is it? / Social psychology: how do we reflect on/construct ourselves and ourselves in relation to others?
-2. Temporary immersion through vacations (paying to immerse): festivals, tourism
-3. Temporary immersion through performance: total theater, philosophy of theater
-4. Portable immersion: drugs, AR/VR
-5. Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
-6. Experiment, test
-
 
 ### 2. Goals and Objectives
 #### 2.1 what you hope to achieve
-To study historical and contemporary immersive environments in approaching civic media projects, learn the technologies involved in AR development, create an immersive piece using AR.
+To study historical and contemporary immersive environments in approaching civic media projects, learn the technologies involved in VR/AR development, create an immersive piece using VR.
 
 #### 2.2 objectives
 1. Study historical and contemporary immersive environments and cultures
@@ -99,103 +92,83 @@ _Offer what you anticipate to be the core challenges to your directed study._
 ### 7. Weekly Schedule
 _Once you have completed steps 1-6, produce a weekly schedule that follows the class and places nos. 4 & 5 specifically into a concreted plan for the semester._
 
-#### Performance, theater, dance
-- **Week 1**\\
-  Social Psychology and group Psychology; identity study; the art of performing self (Fluxus)
-  - social scripts
-  - [personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
-  - Location of Culture
-     - study of postcolonial construction of memory and identity
-     - Third Spaces
-
-\
-- **Week 2**\\
-  The art of immersive/total performance (ephemerality, time-based art; Disney)\\
-  _Total cinema: combination of music, visuals, performance, timing_
+#### 7.1. Civic imagination / Immersive storytelling: affordances?
+- **Civic imagination**: what is it?
+  - [**Textual Poachers: Television Fans and Participatory Culture** by Henry Jenkins](https://www.amazon.com/Textual-Poachers-Television-Participatory-Culture/dp/0415533295)
+  - [**By Any Media Necessary: The New Youth Activism** by Henry Jenkins, Sangita Shresthova, Liana Gamber-Thompson, Neta Kligler-Vilenchik, Arely Zimmerman](https://nyupress.org/books/9781479899982/)
+- Alternatives to capitalism
+  - [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
+  - **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
+- **Immersive storytelling**
+  - - **The Medium is the Message** by Marshall McLuhan
   - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
   - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
   - **The Art of Immersion** by Frank Rose
   - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
   - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
 
-\
-- **Week 3**\\
-  The art of immersive theater OR dance as immersive experience\\
-  _Myths, classics; video game narratives_\\
-  - Some readings from HowlRound (P. Carl) [here](http://howlround.com/my-tension-experience-part-1-exploring-extreme-immersive-theatre), [here](http://howlround.com/the-parasite-an-alternate-reality-game-for-orientation), [here](http://howlround.com/location-based-and-audience-aware-storytelling-grace-plains-and-bodies-for-a-global-brain), [here](http://howlround.com/an-immersive-experience-with-community-take-them-into-the-dirt), [here](http://howlround.com/the-immersive-actor), [here](http://howlround.com/immersive-and-interactive-performance-a-rasic-experience), and [here](http://howlround.com/stage-managing-immersive-site-specific-and-participatory-theatre).
+#### 7.2. How do we know ourselves? How do we know ourselves in relation to others?
+- **Social psychology and group psychology**: how do we reflect on/construct ourselves and ourselves in relation to others?
+- **Performance of identity and culture**; creation of third spaces
+  - Social scripts (reading TBD)
+  - [Personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
+  - **Location of Culture** by Homi Bhabha
+     - Study of postcolonial construction of memory and identity
+     - Third Spaces
 
-\
-- **Week 4**\\
-Audio & audiovisuals as immersive experience\\
- - sound design starting [here](https://www.youtube.com/watch?v=kavxsXhzD48)
- - [compositional randomness](https://www.youtube.com/watch?v=cIsewG2g-1g)   
-
-\
-#### Constructed Spaces online
-- **Week 5**\\
-Internet as immersive experience; interactive data displays, or live visualizations from public data\\
- - [Generative worlds, web experiments](https://christmasexperiments.com/2017/20/aquarium/)
- - [WebGL experiments](http://www.jam3.com/work/#mozilla-webgl)
-
-\
- - **Week 6**\\
- SecondLife and immersive virtual worlds; avatars\\
- _avatars, creation/performance of new identities_\\
- [**Hello Avatar** by Beth Coleman](https://mitpress.mit.edu/books/hello-avatar)   
-
-\
-#### Constructed Spaces in Society
-- **Week 7**\\
-Constructing alternative/contrarian cultures; intentional communities vs. Startup culture\\
-_Burning Man and other festivals, Silicon Valley, Disney World_\\
-- [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
-- [**The Misfit Economy** by Alexa Clay](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)
-
-\
-- **Week 8**\\
-Revolution as immersion; cultural "buy-in"; constructing alternative realities to incite mass movement\\
-_What motivates/incites mass movement?_\\
-- **Manufacturing Consent** by Noam Chomsky (maybe)
-- what is democracy? when/where does it "work"?
-- who is the "public"?
-- alternatives to capitalism (maybe)
-- **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
-- [**The Coming Swarm** by Molly Sauter](https://www.amazon.com/Coming-Swarm-Hacktivism-Disobedience-Internet/dp/1623564565) (maybe)
-- [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
-
-\
-- **Week 9**\\
-Eastern religion-inspired tourism (culture in sites like Kathmandu, San Pedro) & drugs as immersive experience, in particular their ability to imprint experiences to memories; connect to Augmented Reality technology readings
-- **The Medium is the Message** by Marshall McLuhan
-
-\
-#### Mixed constructed virtual/physical worlds
-- **Week 10**\\
-Locational/participatory immersion: how does audience participation create or influence immersive experiences\\
- _Mobile immersive experiences (performance in third spaces), participatory theater_\\
-- urban derive as immersive space, augmented reality historical tours
-- [videogame urbanism at UCL Bartlett](http://videogameurbanism.com/)
-- **Designing Publics** by Chris LeDantec
-
-\
-- **Week 11**\\
-  Portable immersive worlds\\
-  _Fluxus "art kits"_
-  - portable video cameras
-  - street circuses or performance
-  - AR headsets
-
-\
-- **Week 12**\\
-  Dada and [Fluxus](http://www.fluxus.org/) influences on thinking about space, and imprinted memories
-  - the fluxus reader (look into work of George Machiunis)
-  - Rosaland Krauss, Arthur C Danto
-  - Look at offshoots like conceptual art and performance article (Anthology of writings of conceptual art)
+#### 7.3. Temporary immersion through performance art: total theater, philosophy of theater, Fluxus
+- [Fluxus](http://www.fluxus.org/): the art of performing self; influences on thinking about space; imprinted memories
+  - The Fluxus Reader (in particular: artist George Machiunis)
+  - Work by Art Critics: Rosalind Krauss, Arthur C. Danto
+  - Offshoots (conceptual art, performance art: [Conceptual Art: A Critical Anthology](https://mitpress.mit.edu/books/conceptual-art))
   - Haroun Farouki on trauma, therapeutic VR
-  - **Matter and Memory** by Henri Bergson (AR and Memory imprinting)
+  - **Matter and Memory** by Henri Bergson (AR and memory imprinting)
   - **The Poetics of Space** by Gaston Bachelard
   - (Both coming out the phenomenologist school between the World Wars)
   - **The Production of Space** by Henri Lefebvre
+- Immersive theater and dance\\
+   - Readings from HowlRound (P. Carl) [here](http://howlround.com/my-tension-experience-part-1-exploring-extreme-immersive-theatre), [here](http://howlround.com/the-parasite-an-alternate-reality-game-for-orientation), [here](http://howlround.com/location-based-and-audience-aware-storytelling-grace-plains-and-bodies-for-a-global-brain), [here](http://howlround.com/an-immersive-experience-with-community-take-them-into-the-dirt), [here](http://howlround.com/the-immersive-actor), [here](http://howlround.com/immersive-and-interactive-performance-a-rasic-experience), and [here](http://howlround.com/stage-managing-immersive-site-specific-and-participatory-theatre).
+- Total cinema: combination of music, visuals, performance, timing
+
+#### 7.4. Temporary immersion through vacations ("pay to immerse"): festivals, tourism
+- Festivals: Burning Man study
+  - [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
+- Tourism:
+  - Eastern religion-inspired tourism (culture in sites like Kathmandu, San Pedro)
+- Extra: Cults - constructing alternative/contrarian cultures; intentional communities vs. Startup culture
+  - [**The Misfit Economy** by Alexa Clay](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)   
+
+#### 7.5. Portable immersion: drugs, AR/VR, pop up spaces
+- Drugs as immersive experience, in particular their ability to imprint experiences to memories
+- Pop-up spaces
+- Audio & audiovisuals as immersive experience\\
+ - sound design starting [here](https://www.youtube.com/watch?v=kavxsXhzD48)
+ - [compositional randomness](https://www.youtube.com/watch?v=cIsewG2g-1g)
+
+#### 6. Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
+- Constructed worlds/amusement parks: Disneyworld
+- Virtual worlds: SecondLife and immersive virtual worlds & avatars
+   - [**Hello Avatar** by Beth Coleman](https://mitpress.mit.edu/books/hello-avatar)
+   - [Generative worlds, web experiments](https://christmasexperiments.com/2017/20/aquarium/)
+   - [WebGL experiments](http://www.jam3.com/work/#mozilla-webgl)
+
+#### 7. Prototype
+- Work on technology / design experiment
+
+#### 8. Prototype
+- Technology / design experiment 1
+
+#### 9. Prototype
+- Work on technology / design experiment
+
+#### 10. Prototype
+- Technology / design experiment 2
+
+#### 11. Prototype
+- Work on final piece
+
+#### 12. Prototype
+- Final piece
 
 \
 #### stray thoughts
