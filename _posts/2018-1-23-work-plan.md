@@ -86,8 +86,10 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - **Civic imagination**: what is it?
   - [**Textual Poachers: Television Fans and Participatory Culture** by Henry Jenkins](https://www.amazon.com/Textual-Poachers-Television-Participatory-Culture/dp/0415533295)
   - [**By Any Media Necessary: The New Youth Activism** by Henry Jenkins, Sangita Shresthova, Liana Gamber-Thompson, Neta Kligler-Vilenchik, Arely Zimmerman](https://nyupress.org/books/9781479899982/)
+- **Imagined communities**
+  - [**Imagined communities: Reflections on the origin and spread of nationalism** by Benedict Anderson (2006)](http://art.yale.edu/file_columns/0000/8647/anderson.pdf)
+  - **Understanding Media** by Marshall McLuhan
 - **Immersive storytelling**
-  - - **The Medium is the Message** by Marshall McLuhan
   - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
   - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
   - **The Art of Immersion** by Frank Rose
@@ -195,6 +197,11 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - **Speculative design** by Dunne + Raby
 - **Adversarial design** by Carl DiSalvo
 - **Capital in the Twenty-First Century** by Thomas Piketty
+- **Emergent Strategy: Shaping Change, Changing Worlds** by adrienne maree brown
 - **Designing Publics** by Chris Le Dantec
 - [**Data Storytelling syllabus** by Rahul Bhargava](http://datastudio2017.datatherapy.org)
 - **Radical Technologies** by Adam Greenfield
+- [Transhumanism: searching for the spirit in the machine](https://www.media.mit.edu/videos/ml-talks-2017-12-19/)
+- [digital democracy and technological sovereignty left answers to the smart attack of neoliberalism](https://www.opendemocracy.net/digitaliberties/richard-barbrook-francesca-bria-evgeny-morozov/digital-democracy-and-technological-sovereignty)
+- [cities, infrastructures, and politics: from renaissance to smart technologies]()http://www.gsd.harvard.edu/course/cities-infrastructures-and-politics-from-renaissance-to-smart-technologies-spring-2017/
+- [virtual city vr](https://www.thememo.com/2016/09/29/lumen-prize-winner-lumen-prize-digital-art-vr-art-virtual-reality-art/)
