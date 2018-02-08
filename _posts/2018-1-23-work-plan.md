@@ -75,46 +75,42 @@ _What are the core questions that will guide your work?_
 
 
 ### 6. Challenges to Completion
-_Offer what you anticipate to be the core challenges to your directed study._
 - Scope
-
+- Learning new technologies
 
 ### 7. Weekly Schedule
-_Once you have completed steps 1-6, produce a weekly schedule that follows the class and places nos. 4 & 5 specifically into a concreted plan for the semester._
 
-#### 7.1. Civic imagination / Immersive storytelling: affordances?
-- **Civic imagination**: what is it?
-  - [**Textual Poachers: Television Fans and Participatory Culture** by Henry Jenkins](https://www.amazon.com/Textual-Poachers-Television-Participatory-Culture/dp/0415533295)
-  - [**By Any Media Necessary: The New Youth Activism** by Henry Jenkins, Sangita Shresthova, Liana Gamber-Thompson, Neta Kligler-Vilenchik, Arely Zimmerman](https://nyupress.org/books/9781479899982/)
-- **Imagined communities**
+### 7.1. Civic imagination: construction of identity and self / self in relation to society
+1. **Civic imagination, Identity, Memory, + Media**
+  - **Location of Culture** by Homi Bhabha
   - [**Imagined communities: Reflections on the origin and spread of nationalism** by Benedict Anderson (2006)](http://art.yale.edu/file_columns/0000/8647/anderson.pdf)
+  - **How Propaganda Works** by Jason Stanley
+2. **Supplementary**
+  - [**By Any Media Necessary: The New Youth Activism** by Henry Jenkins, Sangita Shresthova, Liana Gamber-Thompson, Neta Kligler-Vilenchik, Arely Zimmerman](https://nyupress.org/books/9781479899982/)
   - **Understanding Media** by Marshall McLuhan
+  - Study of a specific society: **Phoenician Secrets: Exploring the Ancient Mediterranean** by Sanford Holst
+  - Education: **teaching to transgress** by bell hooks; **Pedagogy of the Oppressed** by Paulo Freire; **killing rage: ending racism** by bell hooks; **all about love: new visions** by bell hooks
+  - Study of the "public": **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
+  - [**Textual Poachers: Television Fans and Participatory Culture** by Henry Jenkins](https://www.amazon.com/Textual-Poachers-Television-Participatory-Culture/dp/0415533295)
+  - [Personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
+  - [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
+  - Study of social psychology and group psychology: on "social scripts"
+
+#### 7.2 Design experiment
+  - **Introduction to Unity**
+
+#### 7.3. Immersive storytelling: affordances and limitations
 - **Immersive storytelling**
   - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
   - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
   - **The Art of Immersion** by Frank Rose
   - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
   - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
-- Extra: Alternatives to capitalism
-    - [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
-    - **teaching to transgress** by bell hooks
-    - **Pedagogy of the Oppressed** by Paulo Freire
-    - **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
 
+#### 7.4. Design experiment
+- **Introduction to WebGL**
 
-#### 7.2. How do we know ourselves? How do we know ourselves in relation to others?
-- **Social psychology and group psychology**: how do we reflect on/construct ourselves and ourselves in relation to others? *Can we construct from a place of liberation?*
-- **Performance of identity and culture**; creation of third spaces
-  - Social scripts (reading TBD)
-  - [Personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
-  - **Location of Culture** by Homi Bhabha
-     - Study of postcolonial construction of memory and identity
-     - Third Spaces
-  - **killing rage: ending racism** by bell hooks
-  - **all about love: new visions** by bell hooks
-
-
-#### 7.3. Temporary immersion through performance art: total theater, philosophy of theater, Fluxus
+#### 7.5. Temporary immersion through performance art: total theater, philosophy of theater, Fluxus
 - [Fluxus](http://www.fluxus.org/): the art of performing self; influences on thinking about space; imprinted memories
   - The Fluxus Reader (in particular: artist George Machiunis)
   - Work by Art Critics: Rosalind Krauss, Arthur C. Danto
@@ -128,7 +124,10 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
    - Readings from HowlRound (P. Carl) [here](http://howlround.com/my-tension-experience-part-1-exploring-extreme-immersive-theatre), [here](http://howlround.com/the-parasite-an-alternate-reality-game-for-orientation), [here](http://howlround.com/location-based-and-audience-aware-storytelling-grace-plains-and-bodies-for-a-global-brain), [here](http://howlround.com/an-immersive-experience-with-community-take-them-into-the-dirt), [here](http://howlround.com/the-immersive-actor), [here](http://howlround.com/immersive-and-interactive-performance-a-rasic-experience), and [here](http://howlround.com/stage-managing-immersive-site-specific-and-participatory-theatre).
 - Total cinema: combination of music, visuals, performance, timing
 
-#### 7.4. Temporary immersion through vacations ("pay to immerse"): festivals, tourism
+#### 7.6. Design Experiment
+- **Introduction to three.js**
+
+#### 7.7. Temporary immersion through vacations ("pay to immerse"): festivals, tourism
 - Festivals: Burning Man study
   - [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
 - Tourism:
@@ -137,7 +136,10 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
   - [**The Misfit Economy** by Alexa Clay](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)
   - Jonestown in Guyana
 
-#### 7.5. Portable immersion: drugs, AR/VR, pop up spaces
+#### 7.8. Design Experiment
+- **Introduction to interactive data visualization**
+
+#### 7.9. Portable immersion: drugs, AR/VR, pop up spaces
 - Drugs as immersive experience, in particular their ability to imprint experiences to memories
 - Pop-up spaces
 - Audio & audiovisuals as immersive experience\\
@@ -146,7 +148,10 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
 - Projection mapping; temporary skins on built environment (see [World Trade Center elevator video](https://www.youtube.com/watch?v=cKTPaqbXrAY))
 - AR walking tours (urban dérive)
 
-#### 6. Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
+#### 7.10 Design Experiment
+- **Introduction to immersive audio spatial design**
+
+#### 7.11 Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
 - Constructed worlds/amusement parks: Disneyworld
 - Virtual worlds: SecondLife and immersive virtual worlds & avatars
    - [**Hello Avatar** by Beth Coleman](https://mitpress.mit.edu/books/hello-avatar)
@@ -154,23 +159,8 @@ _Once you have completed steps 1-6, produce a weekly schedule that follows the c
    - [Generative worlds, web experiments](https://christmasexperiments.com/2017/20/aquarium/)
    - [WebGL experiments](http://www.jam3.com/work/#mozilla-webgl)
 
-#### 7. Prototype
-- Work on technology / design experiment
-
-#### 8. Prototype
-- Technology / design experiment 1
-
-#### 9. Prototype
-- Work on technology / design experiment
-
-#### 10. Prototype
-- Technology / design experiment 2
-
-#### 11. Prototype
-- Work on final piece
-
-#### 12. Prototype
-- Final piece
+#### 7.12 Design Final
+- Final performance using mix of technologies
 
 
 ### stray thoughts
