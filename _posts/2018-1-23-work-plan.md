@@ -1,7 +1,7 @@
 ---
 layout: post
 title: work plan
-tags: directed-study
+tags: directed-study blog
 ---
 
 for _CM630: Topics in Civic Media_ \\
@@ -195,3 +195,4 @@ _What are the core questions that will guide your work?_
 - [digital democracy and technological sovereignty left answers to the smart attack of neoliberalism](https://www.opendemocracy.net/digitaliberties/richard-barbrook-francesca-bria-evgeny-morozov/digital-democracy-and-technological-sovereignty)
 - [cities, infrastructures, and politics: from renaissance to smart technologies]()http://www.gsd.harvard.edu/course/cities-infrastructures-and-politics-from-renaissance-to-smart-technologies-spring-2017/
 - [virtual city vr](https://www.thememo.com/2016/09/29/lumen-prize-winner-lumen-prize-digital-art-vr-art-virtual-reality-art/)
+- **Algorithms to Live By: The Computer Science of Human Decisions** by Brian Christian, Tom Griffiths
