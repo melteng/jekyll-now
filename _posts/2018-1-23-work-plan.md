@@ -98,6 +98,10 @@ _What are the core questions that will guide your work?_
 
 #### 7.2 Design experiment
   - **Introduction to Unity**
+    - [Roll ball tutorial](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
+    - [Unity for Javascript developers: ~2hrs](https://www.lynda.com/Unity-tutorials/Learning-Unity-JavaScript-Developers/580643-2.html?srchtrk=index%3a6%0alinktypeid%3a2%0aq%3aunity%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+  - [Introduction to Designing for VR](https://blog.prototypr.io/designing-for-vr-a-beginners-guide-d2fe37902146)
+  - [Re-thinking Reading on the web](https://blog.marvelapp.com/re-thinking-reading-web/)
 
 #### 7.3. Immersive storytelling: affordances and limitations
 - **Immersive storytelling**
@@ -196,3 +200,4 @@ _What are the core questions that will guide your work?_
 - [cities, infrastructures, and politics: from renaissance to smart technologies]()http://www.gsd.harvard.edu/course/cities-infrastructures-and-politics-from-renaissance-to-smart-technologies-spring-2017/
 - [virtual city vr](https://www.thememo.com/2016/09/29/lumen-prize-winner-lumen-prize-digital-art-vr-art-virtual-reality-art/)
 - **Algorithms to Live By: The Computer Science of Human Decisions** by Brian Christian, Tom Griffiths
+- [unity game builder](https://assetstore.unity.com/packages/templates/systems/adventure-creator-11896)
