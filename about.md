@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hello
+title: hello
 permalink: /hello/
 ---
 
 [🙋🏻 cv](https://www.dropbox.com/s/w76yb946k2seepd/Melissa%20Teng%20-%202017%20CV.pdf?dl=0) - [📬 email](mailto:tengmelis@gmail.com) - [📻 twits](https://www.twitter.com/melisteng) - [📺 insta](https://www.instagram.com/mqqt_/) - [📓 github](https://github.com/melteng)
 
-My name is Melissa Teng and I'm an interactive designer + frontend developer with an arts and economics background. This is my digital space for (largely) paintings and drawings.
+My name is Melissa Teng and I'm an interactive designer + frontend developer with an arts and economics background. This is my digital space for my projects, artwork, writing, and thoughts.
 
 Currently I am a [civic media](https://elab.emerson.edu/cmap) masters candidate at Emerson College, where I am interested in exploring the intersection of connective technologies, cultural memory, and creative placemaking. On the side, I research public participation in smart city initiatives with the [Engagement Lab](https://elab.emerson.edu/) and do web design at the [Open Documentary Lab](http://opendoclab.mit.edu/).
 

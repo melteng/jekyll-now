@@ -17,27 +17,28 @@ $darkGray: #454952;
 $gray: #5c5e63;
 $robin: #98a4c1;
 $lightGray: #dfe4f1;
-$white: #feffff;
+// $white: #feffff;
+$white: #ffffff;
 
 // Font imports
 
 @font-face {
-  font-family: 'Hind';
-  src: url('fonts/Hind/Hind-Regular.ttf') format('truetype');
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans/OpenSans-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Hind';
-  src: url('fonts/Hind/Hind-Light.ttf') format('truetype');
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans/OpenSans-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Hind';
-  src: url('fonts/Hind/Hind-Bold.ttf') format('truetype');
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans/OpenSans-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
@@ -58,21 +59,24 @@ $white: #feffff;
 
 // Font stacks
 
-$hind: 'Hind', Helvetica, Arial, sans-serif;
+$opensans: 'Open Sans', Helvetica, Arial, sans-serif;
 $inconsolata: 'Inconsolata', Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Typography
 
 @mixin bodyText {
-  font-family: $hind;
+  font-family: $opensans;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 1.6;
 }
 
 @mixin calloutText {
   font-family: $inconsolata;
+  font-weight: 400;
+}
+
+@mixin titleText {
+  font-family: $georgia;
   font-weight: 400;
 }
 

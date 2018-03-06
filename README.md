@@ -2,7 +2,7 @@
 
 #### Links for when ded
 
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [front-matter](http://jekyllrb.com/docs/frontmatter/)
 
 #### Local Development
