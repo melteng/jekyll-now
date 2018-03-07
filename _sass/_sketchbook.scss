@@ -1,0 +1,46 @@
+body.sketches {
+  background: $white url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIElEQVQoU2NkIAJ8/fH/PyMR6hhGFeINJXDwgAhiwhIANwknOVOFs1gAAAAASUVORK5CYII=) repeat;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  min-height: 100%;
+
+  .wrapper-footer {
+    display: none;
+  }
+
+  .masthead {
+    border: 0;
+  }
+
+  #main {
+    max-width: 1440px;
+  }
+
+  .sketchbook {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .sketch {
+    width: 27%;
+    min-width: 250px;
+    margin: 0 2% 0;
+
+    p {
+      margin: 0;
+    }
+
+    &:nth-child(even) {
+      padding-top: 10%;
+
+      @include mobile {
+        padding: 0;
+      }
+
+    }
+  }
+}

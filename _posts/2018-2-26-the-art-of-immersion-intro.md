@@ -1,7 +1,8 @@
 ---
 layout: post
+categories: blog
 title: the art of immersion / definitions
-tags: directed-study blog
+tags: directed-study
 ---
 
 > As mixed reality and IoT technologies increasingly allow people to “immerse” themselves into curated, augmented experiences, it is worth exploring the potential for these spaces to inspire a greater civic imagination – or “the capacity to imagine alternatives to current cultural, social, political, or economic conditions.”

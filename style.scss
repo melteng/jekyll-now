@@ -23,6 +23,8 @@ body {
   @include bodyText;
   font-size: 15px;
   line-height: 2;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
 }
 
 .container {
@@ -316,15 +318,17 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid $blue;
+  border-bottom: 1px solid $blue;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
 }
+
+// imports page-specific styles
+@import "sketchbook";
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

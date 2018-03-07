@@ -1,0 +1,15 @@
+---
+layout: default
+pagetitle: sketches
+permalink: /sketches/
+---
+
+<div class="sketchbook">
+  {% for post in site.categories.sketch %}
+    <article class="sketch">
+      <a href="{{ post.baseurl }}{{ post.url }}">
+        {{post.excerpt}}
+      </a>
+    </article>
+  {% endfor %}
+</div>

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: work plan
-tags: directed-study blog
+categories: blog
+title: a work plan for immersive spaces
+tags: directed-study
 ---
 
 for _CM630: Topics in Civic Media_ \\
@@ -12,13 +13,13 @@ Spring 2018
 **immersive spaces for constructing civic imagination** \\
 As mixed reality and IoT technologies increasingly allow people to "immerse" themselves into curated, augmented experiences, it is worth exploring the potential for these spaces to inspire a greater [civic imagination](https://www.civicimaginationproject.org/theory) -- or "the capacity to imagine alternatives to current cultural, social, political, or economic conditions."
 
-In particular, I am interested in temporary immersive spaces (ephemeral, portable, "vacation" spaces) and the learning opportunities created by these alternative experiences to perform and re-imagine the *self* and the *self in relation to society*, especially in ways that carry back into "reality" (or in memory).
+In particular, I am interested in temporary immersive spaces (ephemeral, portable, "vacation" spaces) that are *shared* and the learning opportunities created by these alternative experiences to perform and re-imagine the *self* and the *self in relation to society*, especially in ways that carry back into "reality" (or in memory).
 
 Freud described personal memory as being constructed, drawn from an untapped, unconscious memory bank, while David Lowenthal wrote, "The past is a foreign country." On a societal level, scholars have written about the malleability of cultural memory and need for reflexive historical processes. As our collective remembered realities are increasingly "mixed" (virtual or augmented), what are the opportunities for cultivating a stronger and far-reaching civic imagination?
 
 I will start with a field scan of other constructed/appropriated temporary immersive spaces and how they were used to explore and bolster civic imagination. Readings will be supplemented with regular technology/design experiments. Last, I will build my own immersive performance experience inspired by one topic area or project studied this semester. I imagine the medium will be a VR app but the medium is flexible. A potential prompt would be a re-imagining of gentrifying neighborhoods.
 
-##### broad keywords: civic imagination, critical world building, mixed reality, total cinema, identity performance, cult culture, Disneyfication, social script
+##### broad keywords: civic imagination, critical world building, mixed reality, total cinema, identity performance, cult culture, social script
 
 #### 1.1 background
 - Decreasing cost and barrier to entry of immersion (or escapism): through screens/headphones (mobile devices/mp3 players), the Internet (social media, virtual worlds like SecondLife), video games, festivals (e.g. Burning Man), backpacker tourism (e.g. Kathmandu, San Pedro, Bali), guilty pleasure vacations (Vegas, Times Square, Phuket), drugs, mixed reality technologies.
@@ -43,7 +44,7 @@ _What are the core questions that will guide your work?_
 - Is there a potential to address capitalism through moving, collective immersive experiences?
 
 
-### 4. Readings/Media
+### 4. Readings/Media (partial)
 
 - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
 - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
@@ -80,41 +81,37 @@ _What are the core questions that will guide your work?_
 
 ### 7. Weekly Schedule
 
-### 7.1. Civic imagination: construction of identity and self / self in relation to society
+### 7.1. Civic imagination: construction of identity and self / self in relation to society - 2/7/8
 1. **Civic imagination, Identity, Memory, + Media**
-  - **Location of Culture** by Homi Bhabha
   - [**Imagined communities: Reflections on the origin and spread of nationalism** by Benedict Anderson (2006)](http://art.yale.edu/file_columns/0000/8647/anderson.pdf)
   - **How Propaganda Works** by Jason Stanley
+  - **Location of Culture** by Homi Bhabha
 2. **Supplementary**
-  - [**By Any Media Necessary: The New Youth Activism** by Henry Jenkins, Sangita Shresthova, Liana Gamber-Thompson, Neta Kligler-Vilenchik, Arely Zimmerman](https://nyupress.org/books/9781479899982/)
-  - **Understanding Media** by Marshall McLuhan
   - Study of a specific society: **Phoenician Secrets: Exploring the Ancient Mediterranean** by Sanford Holst
-  - Education: **teaching to transgress** by bell hooks; **Pedagogy of the Oppressed** by Paulo Freire; **killing rage: ending racism** by bell hooks; **all about love: new visions** by bell hooks
   - Study of the "public": **The Media and The Public: "Them" and "Us" in Media Discourse** by Stephen Coleman and Karen Ross
   - [**Textual Poachers: Television Fans and Participatory Culture** by Henry Jenkins](https://www.amazon.com/Textual-Poachers-Television-Participatory-Culture/dp/0415533295)
-  - [Personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
-  - [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
   - Study of social psychology and group psychology: on "social scripts"
 
-#### 7.2 Design experiment
+#### 7.2 Design experiment - 2/14/18
   - **Introduction to Unity**
     - [Roll ball tutorial](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
     - [Unity for Javascript developers: ~2hrs](https://www.lynda.com/Unity-tutorials/Learning-Unity-JavaScript-Developers/580643-2.html?srchtrk=index%3a6%0alinktypeid%3a2%0aq%3aunity%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
   - [Introduction to Designing for VR](https://blog.prototypr.io/designing-for-vr-a-beginners-guide-d2fe37902146)
   - [Re-thinking Reading on the web](https://blog.marvelapp.com/re-thinking-reading-web/)
 
-#### 7.3. Immersive storytelling: affordances and limitations
+#### 7.3. Immersive storytelling: affordances and limitations - 2/21/18
 - **Immersive storytelling**
   - **Storytelling for the Twenty-First Century** by Alexander, Bryan (2011)
+  - **Understanding Media** by Marshall McLuhan
   - **Immersion** by Janet H. Murray (1997). Excerpt from Hamlet on the Holodeck.
   - **The Art of Immersion** by Frank Rose
   - **The Slipstream of Mixed Reality: Unstable Ontologies and Semiotic Markers "The Thirteenth Floor, Dark City, and Mulholland Drive"** by N. Katherine Hayles and Nicholas Gessler (2004)
   - **The Age of Dynamic Storytelling: A guide for journalists in a world of immersive 3-d content** by Francesco Marconi and Taylor Nakagawa
 
-#### 7.4. Design experiment
+#### 7.4. Design experiment 2/18/18
 - **Introduction to WebGL**
 
-#### 7.5. Temporary immersion through performance art: total theater, philosophy of theater, Fluxus
+#### 7.5. Temporary immersion through performance art: total theater, philosophy of theater, Fluxus - 3/7/18
 - [Fluxus](http://www.fluxus.org/): the art of performing self; influences on thinking about space; imprinted memories
   - The Fluxus Reader (in particular: artist George Machiunis)
   - Work by Art Critics: Rosalind Krauss, Arthur C. Danto
@@ -128,10 +125,10 @@ _What are the core questions that will guide your work?_
    - Readings from HowlRound (P. Carl) [here](http://howlround.com/my-tension-experience-part-1-exploring-extreme-immersive-theatre), [here](http://howlround.com/the-parasite-an-alternate-reality-game-for-orientation), [here](http://howlround.com/location-based-and-audience-aware-storytelling-grace-plains-and-bodies-for-a-global-brain), [here](http://howlround.com/an-immersive-experience-with-community-take-them-into-the-dirt), [here](http://howlround.com/the-immersive-actor), [here](http://howlround.com/immersive-and-interactive-performance-a-rasic-experience), and [here](http://howlround.com/stage-managing-immersive-site-specific-and-participatory-theatre).
 - Total cinema: combination of music, visuals, performance, timing
 
-#### 7.6. Design Experiment
+#### 7.6. Design Experiment - 3/14/18
 - **Introduction to three.js**
 
-#### 7.7. Temporary immersion through vacations ("pay to immerse"): festivals, tourism
+#### 7.7. Temporary immersion through vacations ("pay to immerse"): festivals, tourism - 3/21/18
 - Festivals: Burning Man study
   - [**Counterculture to Cyberculture** by Fred Turner](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)
 - Tourism:
@@ -140,10 +137,10 @@ _What are the core questions that will guide your work?_
   - [**The Misfit Economy** by Alexa Clay](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)
   - Jonestown in Guyana
 
-#### 7.8. Design Experiment
+#### 7.8. Design Experiment - 3/28/18
 - **Introduction to interactive data visualization**
 
-#### 7.9. Portable immersion: drugs, AR/VR, pop up spaces
+#### 7.9. Portable immersion: drugs, AR/VR, pop up spaces - 4/4/18
 - Drugs as immersive experience, in particular their ability to imprint experiences to memories
 - Pop-up spaces
 - Audio & audiovisuals as immersive experience\\
@@ -152,10 +149,10 @@ _What are the core questions that will guide your work?_
 - Projection mapping; temporary skins on built environment (see [World Trade Center elevator video](https://www.youtube.com/watch?v=cKTPaqbXrAY))
 - AR walking tours (urban dérive)
 
-#### 7.10 Design Experiment
+#### 7.10 Design Experiment - 4/11/18
 - **Introduction to immersive audio spatial design**
 
-#### 7.11 Temporary immersion through constructed worlds: Disney, Vegas, SecondLife
+#### 7.11 Temporary immersion through constructed worlds: Disney, Vegas, SecondLife - 4/18/18
 - Constructed worlds/amusement parks: Disneyworld
 - Virtual worlds: SecondLife and immersive virtual worlds & avatars
    - [**Hello Avatar** by Beth Coleman](https://mitpress.mit.edu/books/hello-avatar)
@@ -163,7 +160,7 @@ _What are the core questions that will guide your work?_
    - [Generative worlds, web experiments](https://christmasexperiments.com/2017/20/aquarium/)
    - [WebGL experiments](http://www.jam3.com/work/#mozilla-webgl)
 
-#### 7.12 Design Final
+#### 7.12 Design Final - 4/25/18
 - Final performance using mix of technologies
 
 
@@ -201,3 +198,7 @@ _What are the core questions that will guide your work?_
 - [virtual city vr](https://www.thememo.com/2016/09/29/lumen-prize-winner-lumen-prize-digital-art-vr-art-virtual-reality-art/)
 - **Algorithms to Live By: The Computer Science of Human Decisions** by Brian Christian, Tom Griffiths
 - [unity game builder](https://assetstore.unity.com/packages/templates/systems/adventure-creator-11896)
+- Education: **teaching to transgress** by bell hooks; **Pedagogy of the Oppressed** by Paulo Freire; **killing rage: ending racism** by bell hooks; **all about love: new visions** by bell hooks
+- [Personal identity exploration](https://www.brainpickings.org/2014/10/07/rebecca-goldstein-personal-identity/)
+- [**Capitalist Realism** by Mark Fisher](http://www.zero-books.net/books/capitalist-realism)
+- [**By Any Media Necessary: The New Youth Activism** by Henry Jenkins, Sangita Shresthova, Liana Gamber-Thompson, Neta Kligler-Vilenchik, Arely Zimmerman](https://nyupress.org/books/9781479899982/)

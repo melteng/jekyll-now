@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="sketch">
+  <h2>{{ page.description }}</h2>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+</article>

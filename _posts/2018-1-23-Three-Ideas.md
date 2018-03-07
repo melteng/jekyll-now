@@ -1,7 +1,8 @@
 ---
 layout: post
+categories: blog
 title: three ideas
-tags: thesis blog
+tags: thesis
 ---
 
 My goal is to explore Chinatown’s history, tackling misconceptions and stereotypes at the same time. One idea would be a cross section of historical buildings, working with the data available on Chinatown. If the data is rich enough, we could build a 4-d map, combining data from government, business, individuals. My partners would be the creator of Chinatown Atlas, a professor emeritus at MIT’s School of Planning.

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} {% endif %}{{ site.name }} {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.description }}</title>
 
     {% include meta.html %}
 
@@ -18,7 +18,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   </head>
 
-  <body>
+  <body class="{{ page.pagetitle }}">
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -30,8 +30,10 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/hello">Hello</a>
+            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/sketches">Sketches</a>
+            <a>Projects</a>
           </nav>
         </header>
       </div>
