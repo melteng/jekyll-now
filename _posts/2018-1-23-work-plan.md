@@ -164,19 +164,6 @@ _What are the core questions that will guide your work?_
 - Final performance using mix of technologies
 
 
-### stray thoughts
-- how change happens within communities
-- the pace/hunger for change between generations
-- is being together a physical sensation or can it be "virtual"?
-- Storytelling not rooted in individualism, heroism, neoliberalism, masculinity
-- Indigenous storytelling traditions
-- Alternative: Collaborative/participatory economies as alternative civic infrastructure (culture within digital platforms (Wikipedia), open source, blockchain)
-- algorithms as creators of intentional, personal bubbles: [spotify deep learning music rec system](http://hubs.ly/H06wP8m0)
-- [On Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-- These Open Source podcasts: on [democracy after fb](http://radioopensource.org/democracy-after-facebook/); [intelligence by design (aka human 3.0)](http://radioopensource.org/intelligence-by-design/); ["your brain on Trump"](http://radioopensource.org/this-is-your-brain-on-trump/); [the "scramble for Amazon's HQ2"](http://radioopensource.org/the-scramble-for-amazon/); [displacement v. gentrifying city](http://radioopensource.org/gimme-shelter/)
-- labels and easily datafied mediums (text, images, video) are privileged in today's visual and social profile culture (leading to "virtue signalling" (overuse of buzzwords in marketing/gov/academia) or slippery labels like "feminist" (Aziz Ansari));
-- an overstimulating visual culture: improved SPFX in movies and "Disneyfication" [spectacular commercialization] of physical environments, including urban skylines (e.g. Shanghai, Singapore, Dubai)
-
 ### Supplementary readings
 
 - [**Tubes** by Andrew Blum ](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952)
