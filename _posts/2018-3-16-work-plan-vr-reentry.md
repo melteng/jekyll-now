@@ -2,7 +2,7 @@
 layout: post
 categories: [reentry, blog]
 title: work plan for exploring the US Prison System through VR
-tags: directed-study, reentry
+tags: directed-study reentry
 ---
 
 ### 1. Topic & background
