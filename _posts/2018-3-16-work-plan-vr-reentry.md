@@ -31,13 +31,13 @@ _What are the core questions that will guide your work?_
 
 ### 4. Readings/Media (partial)
 
-#### 4.1 VR and Immersion
+#### **4.1 VR and Immersion**
 - Rose, F. (2012). *The Art of Immersion: The Art of Immersion: How the Digital Generation Is Remaking Hollywood, Madison Avenue, and the Way We Tell Stories*. W. W. Norton.
 - Fictum, C. (2016). *VR UX: Learn VR UX, Storytelling & Design*. CreateSpace Independent Publishing Platform.
 - Bailenson, J. (2018). *Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do*. W. W. Norton Company.
 - Hayles, N. K., & Gessler, N. (2004). The slipstream of mixed reality: Unstable ontologies and semiotic markers in The Thirteenth Floor, Dark City, and Mulholland Drive. *PMLA, 119*(3), 482-499.
 
-#### 4.1.1 VR for reflection
+#### **4.1.1 VR for reflection**
 - Groom, V., Bailenson, J. N., & Nass, C. (2009). [The influence of racial embodiment on racial bias in immersive virtual environments](https://vhil.stanford.edu/mm/2009/groom-racial-embodiment.pdf). *Social Influence, 4*(3), 231-248.
 - Farocki, H. (2014). [Serious games](http://www.ingentaconnect.com/content/aup/necsus/2014/00000003/00000002/art00007?crawler=true). *NECSUS. European Journal of Media Studies, 3*(2), 89-97.
 
@@ -58,7 +58,7 @@ _What are the core questions that will guide your work?_
 - Stroh, D. P. (2015). *Systems thinking for social change: A practical guide to solving complex problems, avoiding unintended consequences, and achieving lasting results*. Chelsea Green Publishing.
 - Block, P. (2009). *Community: The Structure of Belonging*. Berrett-Koehler Publishers.
 
-#### 4.2 Prison system: Race, Capitalism, Gender
+#### **4.2 Prison system: Race, Capitalism, Gender**
 - Alexander, M. (2012). *The new Jim Crow: Mass incarceration in the age of colorblindness*. The New Press.
 - Wang, J. (2018). *Carceral Capitalism*. MIT Press.
 - Butterfield, F. (2008). *All God's children: The Bosket family and the American tradition of violence*. Vintage.
@@ -66,11 +66,10 @@ _What are the core questions that will guide your work?_
 - Rathbone, C. (2007). *A world apart: Women, prison, and life behind bars*. Random House.
 - Swavola, E., Riley, K., & Subramanian, R. (2016). *Overlooked: Women and jails in an era of reform*. New York, NY: Vera Institute of Justice.
 
-#### 4.3 VR Technologies
+#### **4.3 Technologies**
 - Web-based VR: [WebVR](https://webvr.info/) + [AFrame](https://aframe.io/) (built over [Three.js](https://threejs.org/))
 - Related web frameworks for graphics: [p5.js](https://www.youtube.com/user/shiffman), [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API), [JS-based prototyping tools](https://viromedia.com/viroreact/), [WebGL experiments](http://www.jam3.com/work/#mozilla-webgl)
 - Standard VR: [Unity](https://www.udemy.com/vrcourse/learn/v4/overview)
-- Hardware: [Cardboard](Google cardboard),
 - vj software (for projection mapping): [Resolume](https://resolume.com/)
 - (if needed) 3D modeling software: Blender, Maya
 - audio recording/mixing software/hardware
