@@ -1,0 +1,28 @@
+body.reentry {
+  background: $darkerGray;
+  color: $lightGray;
+
+  h3, .site-description {
+    color: $lightGray;
+  }
+
+  .masthead, .wrapper-footer {
+    border-color: $coolGray;
+  }
+
+  .site-avatar {
+    display: none;
+  }
+
+  a {
+    &[href], &:visited {
+      color: $lightGray;
+      text-decoration: none;
+
+      &:hover, &:active {
+        text-decoration: none;
+        text-shadow: 4px 0 0 $coolGray, -4px 0 0 $forest;
+      }
+    }
+  }
+}
