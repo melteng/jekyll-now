@@ -13,6 +13,10 @@ In conversation with prison staff, it is clear that formerly incarcerated women 
 
 There might be an opportunity with virtual reality (VR) technologies to offer inmates controlled, immersive, and game-like exposure to simulated reentry scenarios, prior to their actual release from prison. In a VR set up, sensory information is delivered through a head-mounted display that is able to track natural head movements, creating a convincing immersive experience.
 
+1. Carson, E.A. (2015). Prisoners in 2014. Washington, D.C.: Bureau of Justice Statistics.
+2. Pew Center on the States, State of Recidivism: The Revolving Door of America's Prisons (Washington, DC: The Pew Charitable Trusts, April 2011).
+3. Durose, M. R., Alexia D. C., & Howard N. S. (2014). Recidivism of Prisoners Released in 30 States in 2005: Patterns from 2005 to 2010. Washington, D.C.: Bureau of Justice Statistics.
+
 ### 2. Goals and Objectives
 #### 2.1 what you hope to achieve
 For my thesis, I am exploring how a co-designed VR experience might help alleviate anxiety for formerly incarcerated women reentering the community. This directed study proposal aims to complement this co-design process by examining within the larger US prison system, with an emphasis on the unique experiences and challenges of women and female-identified people. Concurrently I will be exploring VR as an artistic and storytelling medium, with an (initial) emphasis on mixing it with traditional documentary mediums like audio, photos, and video footage.
