@@ -2,7 +2,7 @@
 layout: post
 categories: [reentry, blog]
 title: Who benefits from prison labor?
-tags: directed-study reentry design
+tags: directed-study reentry
 ---
 
 The main justifications for prison labor is that it prevents idleness and teaches inmates marketable skills. However, when many prison jobs are manufacturing jobs that have left the US, it begs the question: how much of the prison labor industry is about rehabilitation and how much is it about exploiting in-land cheap labor (working for less than $1/hour) to bolster the US government and corporations?
