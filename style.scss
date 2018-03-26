@@ -272,7 +272,24 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
+}
+
+.reentry-posts > .post {
   border-bottom: 1px solid $lightGray;
+}
+
+.blog-posts > .post {
+  h1 {
+    margin-right: 20px;
+    margin-bottom: 0;
+    display: inline;
+  }
+
+  sub {
+    @include calloutText;
+    font-size: 18px;
+    color: $robin;
+  }
 }
 
 .posts > .post:last-child {
