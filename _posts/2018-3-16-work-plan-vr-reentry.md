@@ -9,9 +9,7 @@ tags: directed-study reentry
 #### 1.1 background
 The United States has the world’s highest adult incarceration rate, with over 2.2 million currently in jails and prisons. Though only a fraction of the male carceral population, the growth rate of female imprisonment outpaced that of men by more than 50% between 1980 and 2014, from about 26,000 incarcerated women in 1980 to over 215,000 in 2014 (1). At least 95 percent of all inmates in the U.S. will ultimately be released and returned to the community—many without parole and some with no supervision—but more than 60% of former state prisoners are rearrested within three years of release and 76% within five years (2, 3). Women are especially vulnerable following release, with a lack of women-specific reentry community services and mothers experiencing stigmas differently than fathers. In addition to finding stable housing and work, female ex-offenders often feel pressure to provide for their families and communities, while potentially suffering from trauma from physical or sexual abuse or from mental illness. Women often feel pressure to a relapse to substance abuse or crime, which can lead to rearrest, perpetuating the damage to their families, children, and communities.
 
-In conversation with prison staff, it is clear that formerly incarcerated women experienced heightened anxiety upon reentry and were not prepared for navigating daily encounters. Common causes of anxiety were overstimulation by bright lights and colors, loud noises, crowded environments, and an overwhelming selection of unfamiliar choices in daily activities. Small details in quotidian tasks (e.g. swiping cards when boarding a bus, browsing aisles of products when shopping, noticing security cameras while driving) were sometimes challenging or triggering for those who were not given the opportunity to adjust to modern society naturally. Even those incarcerated for as little as six months reported experiencing difficulty reintegrating into the community, experiencing embarrassment as an adult, anger, and anxiety when faced with stressful situations.
-
-There might be an opportunity with virtual reality (VR) technologies to offer inmates controlled, immersive, and game-like exposure to simulated reentry scenarios, prior to their actual release from prison. In a VR set up, sensory information is delivered through a head-mounted display that is able to track natural head movements, creating a convincing immersive experience.
+There might be an opportunity with virtual reality (VR) technologies to offer inmates controlled, immersive, and game-like exposure to simulated reentry scenarios, prior to incarcerated women's actual release from prison. In a VR set up, sensory information is delivered through a head-mounted display that is able to track natural head movements, creating a convincing immersive experience.
 
 1. Carson, E.A. (2015). Prisoners in 2014. Washington, D.C.: Bureau of Justice Statistics.
 2. Pew Center on the States, State of Recidivism: The Revolving Door of America's Prisons (Washington, DC: The Pew Charitable Trusts, April 2011).
@@ -100,25 +98,26 @@ _What are the core questions that will guide your work?_
 - Create: Use AFrame to visualize audio recording
 - Read: The New Jim Crow: Mass incarceration in the age of colorblindness
 - Watch: 13th, documentary by Ava DuVernay
-- Read: VR UX
 - Read: Unity vs. WebVR: [here](https://hackernoon.com/webvr-taking-the-path-of-least-resistance-to-mainstream-vr-49da624f7b6a), [here](https://medium.com/immersion-for-the-win/why-webvr-matters-9f383fee04e5), to start
 
-#### 7.8. 360 Video / Inside This Place, Not of It - 3/28/18
-- Create: a 360 interactive video using AFrame
-- Explore: [virtual city vr](https://www.thememo.com/2016/09/29/lumen-prize-winner-lumen-prize-digital-art-vr-art-virtual-reality-art/)
+#### 7.8. AR / Inside This Place, Not of It - 3/28/18
+- Read: VR UX
+- Read about WebAR (AR.js using AFrame)
 - Read: Inside This Place, Not of It
-- Read: Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do
 - Read [Introduction to Designing for VR](https://blog.prototypr.io/designing-for-vr-a-beginners-guide-d2fe37902146)
 
-#### 7.9. VR for Trauma / A World Apart - 4/4/18
-- Read: Serious Games; The slipstream of mixed reality; The influence of racial embodiment on racial bias in immersive virtual environments
+#### 7.9. 360 Video / A World Apart - 4/4/18
+- Create: a 360 interactive video using AFrame
+- Read: Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do
+- Explore: [virtual city vr](https://www.thememo.com/2016/09/29/lumen-prize-winner-lumen-prize-digital-art-vr-art-virtual-reality-art/)
 - Read: A world apart: Women, prison, and life behind bars
 - Read: Overlooked: Women and jails in an era of reform
 - Optional Read: Phantasmal Media, Matter and Memory
 - Create: TBD VR piece about reflection, therapy
 
-#### 7.10 VR for Memory / All God's Children - 4/11/18
+#### 7.10 VR for Memory & Therapy / All God's Children - 4/11/18
 - Read: All God's Children
+- Read: Serious Games; The slipstream of mixed reality; The influence of racial embodiment on racial bias in immersive virtual environments
 - Optional Read: The poetics of space; The production of space
 - Create: TBD VR piece about memory & empathy
 
