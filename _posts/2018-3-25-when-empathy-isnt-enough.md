@@ -41,4 +41,4 @@ But for my thesis, I am designing a reentry service for female-identifying inmat
 This is all to say, I can better appreciate why some design processes must be participatory to be successful. When empathy isn't enough, user research provides data that can support group facilitation, relationship building, and conflict mediation.
 
 
-1. [Incarcerated Women and Girls Factsheet](https://www.sentencingproject.org/wp-content/uploads/2016/02/Incarcerated-Women-and-Girls.pdf) written by the [Sentencing Project](https://www.sentencingproject.org/).
+<sup>1</sup> [Incarcerated Women and Girls Factsheet](https://www.sentencingproject.org/wp-content/uploads/2016/02/Incarcerated-Women-and-Girls.pdf) written by the [Sentencing Project](https://www.sentencingproject.org/).
