@@ -10,7 +10,7 @@ $mauve: #ec86a5;
 $cherry: #f13b3b;
 $esther: #f3e1e4;
 $mint: #5ccaad;
-$forest: #134b4e;
+$forest: #318277;
 $lightBlue: #f5f8ff;
 
 // Grays
@@ -27,61 +27,93 @@ $white: #ffffff;
 // Font imports
 
 @font-face {
-  font-family: 'Open Sans';
-  src: url('fonts/OpenSans/OpenSans-Regular.ttf') format('truetype');
+  font-family: 'Roboto Mono';
+  src: url('fonts/Roboto_Mono/RobotoMono-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Open Sans';
-  src: url('fonts/OpenSans/OpenSans-Light.ttf') format('truetype');
-  font-weight: 300;
+  font-family: 'Roboto Mono';
+  src: url('fonts/Roboto_Mono/RobotoMono-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('fonts/Roboto_Mono/RobotoMono-Medium.ttf') format('truetype');
+  font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Open Sans';
-  src: url('fonts/OpenSans/OpenSans-Bold.ttf') format('truetype');
-  font-weight: 700;
-  font-style: normal;
+  font-family: 'Roboto Mono';
+  src: url('fonts/Roboto_Mono/RobotoMono-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
 }
 
 @font-face {
-  font-family: 'Inconsolata';
-  src: url('fonts/Inconsolata/Inconsolata-Regular.ttf') format('truetype');
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/Roboto-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Inconsolata';
-  src: url('fonts/Inconsolata/Inconsolata-Bold.ttf') format('truetype');
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/Roboto-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/Roboto-Bold.ttf') format('truetype');
   font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/Roboto-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/Roboto-Black.ttf') format('truetype');
+  font-weight: 900;
   font-style: normal;
 }
 
 // Font stacks
 
-$opensans: 'Open Sans', Helvetica, Arial, sans-serif;
-$inconsolata: 'Inconsolata', Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$rm: 'Roboto Mono', courier, monospace;
+$r: 'Roboto', Helvetica Neue, Arial, sans-serif;
 
 // Typography
 
 @mixin bodyText {
-  font-family: $opensans;
+  font-family: $r;
   font-weight: 400;
 }
 
 @mixin calloutText {
-  font-family: $inconsolata;
+  font-family: $rm;
   font-weight: 400;
 }
 
 @mixin titleText {
-  font-family: $georgia;
+  font-family: $r;
   font-weight: 400;
+}
+
+@mixin subTitleText {
+  font-family: $r;
+  font-weight: 900;
 }
 
 // Mobile breakpoints
