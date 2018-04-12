@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [reentry, blog]
-title: When empathy isn't enough?
+title: The limits of designing for empathy
 tags: thesis reentry design
 ---
 

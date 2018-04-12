@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title: the art of immersion / definitions
+title: The Art of Immersion
 tags: directed-study
 ---
 

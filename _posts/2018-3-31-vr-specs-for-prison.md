@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [reentry, blog]
-title: Technical Specs for VR in Prisons
+title: Technical specs for virtual reality in prisons
 tags: thesis reentry
 ---
 

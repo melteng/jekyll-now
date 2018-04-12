@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title: three ideas
+title: Three project narratives for Cultural Memory
 tags: thesis
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title: Theory of (Social) Change
+title: Theory of (social) change
 tags: directed-study thesis
 ---
 
