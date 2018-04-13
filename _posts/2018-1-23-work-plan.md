@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title: Work Plan for Immersive Spaces
+title: Work Plan - Immersive Spaces
 tags: directed-study
 ---
 
