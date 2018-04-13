@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [reentry, blog]
-title: Work Plan for Prison and Virtual Reality
+title: Work Plan - Prison and Virtual Reality
 tags: directed-study reentry
 ---
 
@@ -21,8 +21,7 @@ For my thesis, I am exploring how a co-designed VR experience might help allevia
 
 #### 2.2 objectives
 1. Study the experience and systemic pressures of women and female-identifying people in the US prison system
-2. Learn about different methods for creating work in VR that involves audio, footage, and photography
-3. Create a VR piece about the experience of women/female-identifying people in the US prison system
+2. Learn about the affordances and limitations of virtual reality in low-technology environments like prison
 
 
 ### 3. Core Project Questions
@@ -33,13 +32,11 @@ _What are the core questions that will guide your work?_
 
 ### 4. Readings/Media (partial)
 
-#### **4.1 VR and Immersion**
-- Rose, F. (2012). *The Art of Immersion: The Art of Immersion: How the Digital Generation Is Remaking Hollywood, Madison Avenue, and the Way We Tell Stories*. W. W. Norton.
+**4.1 Virtual reality: storytelling for immersion**
+- Rose, F. (2012). *The Art of Immersion: How the Digital Generation Is Remaking Hollywood, Madison Avenue, and the Way We Tell Stories*. W. W. Norton.
 - Fictum, C. (2016). *VR UX: Learn VR UX, Storytelling & Design*. CreateSpace Independent Publishing Platform.
 - Bailenson, J. (2018). *Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do*. W. W. Norton Company.
 - Hayles, N. K., & Gessler, N. (2004). The slipstream of mixed reality: Unstable ontologies and semiotic markers in The Thirteenth Floor, Dark City, and Mulholland Drive. *PMLA, 119*(3), 482-499.
-
-**4.1.1 VR for reflection**
 - Groom, V., Bailenson, J. N., & Nass, C. (2009). [The influence of racial embodiment on racial bias in immersive virtual environments](https://vhil.stanford.edu/mm/2009/groom-racial-embodiment.pdf). *Social Influence, 4*(3), 231-248.
 - Farocki, H. (2014). [Serious games](http://www.ingentaconnect.com/content/aup/necsus/2014/00000003/00000002/art00007?crawler=true). *NECSUS. European Journal of Media Studies, 3*(2), 89-97.
 
@@ -53,12 +50,13 @@ _What are the core questions that will guide your work?_
 - McLuhan, M. (1994). *Understanding media: The extensions of man*. MIT press.
 
 4.1.3 Supplemental Reading on Design
-- [**Prototyping Pasts + Futures** by Jentery Sayers](https://jentery.github.io/ts200/) (for Technology and Society minor at UVic)
 - Dunne, A., & Raby, F. (2013). *Speculative everything: design, fiction, and social dreaming*. MIT press.
 - DiSalvo, C. (2012). *Adversarial design*. The MIT Press.
 - brown, a. m. (2017). *Emergent Strategy: Shaping Change, Changing Worlds*. AK Press.
 - Stroh, D. P. (2015). *Systems thinking for social change: A practical guide to solving complex problems, avoiding unintended consequences, and achieving lasting results*. Chelsea Green Publishing.
 - Block, P. (2009). *Community: The Structure of Belonging*. Berrett-Koehler Publishers.
+- Ortiz G., & Marie, C. (2017). [*equityXdesign: Leveraging Identity Development in the Creation of an Anti-Racist Equitable Design Thinking Process (Doctoral dissertation)](https://dash.harvard.edu/bitstream/handle/1/33774659/ORTIZGUZMAN-CAPSTONE-2017.pdf?sequence=1). Harvard Graduate School of Education.
+- Pullin, G. (2009). Design meets disability. MIT press.
 
 **4.2 Prison system: Race, Capitalism, Gender**
 - Alexander, M. (2012). *The new Jim Crow: Mass incarceration in the age of colorblindness*. The New Press.
@@ -81,8 +79,8 @@ _What are the core questions that will guide your work?_
 
 ### 5. Deliverables
 - weekly vr experiments
-- series of reflections on women and female-identifying people's experiences in US prison system
-- a final VR piece using audio, video, and/or photography about the experiences of women/female-identifying people in the US prison system
+- a final piece using audio, video, and/or photography about women and female-identifying people's experiences in US prison system
+- a final write up about the affordances and limitations of VR in a low-technology environment like prison
 
 
 ### 6. Challenges to Completion
@@ -91,40 +89,42 @@ _What are the core questions that will guide your work?_
 ### 7. Weekly Schedule
 
 #### 7.1-6 Immersion / Pivot
-- Create: Introduction to Unity w/ [Roll ball tutorial](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
-- Read: The Art of Immersion
+- Create: Introduction to Unity w/ [Roll ball tutorial](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial) - [game app link](https://www.dropbox.com/sh/kq4bos943i9y3w7/AADzEFa_Nqs8zNUpUHojXVvWa?dl=0)
+- Read: *The Art of Immersion*
+- Watch: [*Girls Incarcerated: Young and Locked Up* (Netflix)](https://www.netflix.com/title/80185178)
+- Go to: two St. Patrick’s Day hackathons ([WebVR](https://www.eventbrite.com/e/mozilla-webvr-experience-challenge-mini-hack-tickets-43608581441) and [ARKit](https://www.meetup.com/Boston-Virtual-Reality/events/248213026/)), [Public VR Lab](http://publicvrlab.com/category/webvr/), 3/17/18. Co-sponsored by Mozilla, Fasility, Boston VR.
 
 #### 7.7. VR for Audio Recordings / The New Jim Crow - 3/21/18
-- Create: Use AFrame to visualize audio recording
-- Read: The New Jim Crow: Mass incarceration in the age of colorblindness
-- Watch: 13th, documentary by Ava DuVernay
+- Create: basic webVR scene using AFrame - [glitch link](https://sophisticated-python.glitch.me/)
+- Read: *The New Jim Crow: Mass incarceration in the age of colorblindness*
+- Watch: [*13th* (Netflix)](https://www.netflix.com/title/80091741)
 - Read: Unity vs. WebVR: [here](https://hackernoon.com/webvr-taking-the-path-of-least-resistance-to-mainstream-vr-49da624f7b6a), [here](https://medium.com/immersion-for-the-win/why-webvr-matters-9f383fee04e5), to start
 
 #### 7.8. AR / Inside This Place, Not of It - 3/28/18
-- Read: VR UX
-- Read about WebAR (AR.js using AFrame)
-- Read: Inside This Place, Not of It
+- Create: clickable webVR experience using AFrame - [glitch link](https://loud-friend.glitch.me/)
+- Read: *VR UX*
+- Read: *Inside This Place, Not of It*
 - Read [Introduction to Designing for VR](https://blog.prototypr.io/designing-for-vr-a-beginners-guide-d2fe37902146)
 
 #### 7.9. 360 Video / A World Apart - 4/4/18
-- Create: a 360 interactive video using AFrame
-- Read: Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do
-- Explore: [virtual city vr](https://www.thememo.com/2016/09/29/lumen-prize-winner-lumen-prize-digital-art-vr-art-virtual-reality-art/)
-- Read: A world apart: Women, prison, and life behind bars
-- Read: Overlooked: Women and jails in an era of reform
-- Optional Read: Phantasmal Media, Matter and Memory
-- Create: TBD VR piece about reflection, therapy
+- Create: animated VR experience using AFrame - [glitch link](https://splendid-meat.glitch.me/)
+- Read: *Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do*
+- Read: *A world apart: Women, prison, and life behind bars*
+- Optional Read: *Phantasmal Media, Matter and Memory*
 
-#### 7.10 VR for Memory & Therapy / All God's Children - 4/11/18
-- Read: All God's Children
-- Read: Serious Games; The slipstream of mixed reality; The influence of racial embodiment on racial bias in immersive virtual environments
-- Optional Read: The poetics of space; The production of space
-- Create: TBD VR piece about memory & empathy
+#### 7.10 VR for Memory & Therapy / Girls Incarcerated - 4/11/18
+- Create: visualized audio recording using AFrame - [glitch link](https://marked-dragonfly.glitch.me/)
+- Watch: [*Released* (OWN)](http://www.oprah.com/app/released.html)
+- Read: *Serious Games; The slipstream of mixed reality; The influence of racial embodiment on racial bias in immersive virtual environments*
+- Read: *Overlooked: Women and jails in an era of reform*
+- Optional Read: *The poetics of space*; *The production of space*
 
 #### 7.11 VR for Imagination / Carceral Capitalism - 4/18/18
-- Create: TBD VR piece about civic imagination
-- Read: Carceral Capitalism
+- Create: data visualization in webVR
+- Read: *Carceral Capitalism*
 - [Book talk with Author 4/19/18](https://calendar.mit.edu/event/authorsmit_jackie_wang_carceral_capitalism_in_conversation_with_malcolm_harris#.WrHYCJPwaAw) at MIT Bookstore
 
 #### 7.12 Design Final - 4/25/18
-- Final VR piece using audio, video, and/or photography about the experiences of women/female-identifying people in the US prison system
+- Create: a 360 interactive video using AFrame
+- Final piece using audio, video, and/or photography about the experiences of women/female-identifying people in the US prison system
+- Write up about the affordances and limitations of VR in a low-technology environment like prison
