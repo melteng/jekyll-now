@@ -288,14 +288,25 @@ nav {
   h1 {
     margin-right: 20px;
     margin-bottom: 0;
-    display: inline;
+    margin-top: 0;
+    color: $coolGray;
   }
 
   sub {
     @include calloutText;
-    font-size: 18px;
-    color: $robin;
     bottom: 0;
+    font-size: 14px;
+    color: $robin;
+  }
+
+  .date {
+    font-style: normal;
+  }
+
+  .tags {
+    text-transform: capitalize;
+    line-height: 1;
+    padding: 0px 7px;
   }
 }
 

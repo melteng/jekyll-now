@@ -5,8 +5,9 @@ layout: default
 <div class="posts blog-posts">
   {% for post in site.categories.blog %}
     <article class="post">
+      <sub class="date">{{ post.date | date: "%B %e, %Y" }} -</sub>
+      <sub class="tags">{{ post.tags | sort | join: ", " | replace: "-", " " }}</sub>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <sub>{{ post.date | date: "%B %e, %Y" }}</sub>
     </article>
   {% endfor %}
 </div>
