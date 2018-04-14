@@ -25,8 +25,7 @@ For my thesis, I am exploring how a co-designed VR experience might ease the ree
 
 
 ### 3. Core Project Questions
-1. What are the systemic pressures, challenges, and barriers for a woman and female-identifying person reentering the community?
-2. What are common stories of women reentering the community across the U.S.?
+1. What are the systemic pressures, challenges, and barriers for a woman and female-identifying person reentering the community across the U.S.?
 3. What are ways that virtual reality be used for healing and calming, specifically for newly released inmates or individuals with an criminal record facing the systemic constraints of the US prison system?
 
 
@@ -39,13 +38,12 @@ For my thesis, I am exploring how a co-designed VR experience might ease the ree
 - Hayles, N. K., & Gessler, N. (2004). The slipstream of mixed reality: Unstable ontologies and semiotic markers in The Thirteenth Floor, Dark City, and Mulholland Drive. *PMLA, 119*(3), 482-499.
 - Groom, V., Bailenson, J. N., & Nass, C. (2009). [The influence of racial embodiment on racial bias in immersive virtual environments](https://vhil.stanford.edu/mm/2009/groom-racial-embodiment.pdf). *Social Influence, 4*(3), 231-248.
 - Farocki, H. (2014). [Serious games](http://www.ingentaconnect.com/content/aup/necsus/2014/00000003/00000002/art00007?crawler=true). *NECSUS. European Journal of Media Studies, 3*(2), 89-97.
-- [Voices of VR Podcast](http://voicesofvr.com/) by Kent Bye
 
 **4.1.2 Virtual Reality Development Documentation**
-- [UX of VR](https://www.uxofvr.com/)
 - [Unity documentation](https://docs.unity3d.com/ScriptReference/)
 - [AFrame documentation](https://aframe.io/docs/0.8.0/introduction/)
-
+- [UX of VR](https://www.uxofvr.com/)
+- [Voices of VR Podcast](http://voicesofvr.com/) by Kent Bye
 
 **4.1.3 Supplemental Reading on Art and Media Theory**
 - Bergson, H., Paul, N. M., & Palmer, W. S. (2004). *Matter and memory*. Courier Corporation. - on AR and memory imprinting
@@ -96,7 +94,7 @@ For my thesis, I am exploring how a co-designed VR experience might ease the ree
 ### 5. Deliverables
 - Weekly _virtual reality experiments_
 - A _physical and interactive zine_ about the experiences of women and female-identifying people’s experiences in the US prison system. The zine will incorporate data, audio, video, and photography.
-- A _written summary_ about the tools and methods of virtual reality technologies in constrained environments like prison. The written summary will cover the affordances and limitations of the medium, storytelling methods when using virtual reality for therapeutic purposes (e.g. healing and calming), and tools and methods for design and implementation.
+- A _written summary_ about the tools and methods of virtual reality technologies in constrained environments like prison. The written summary will cover an annotated list of tools, the affordances and limitations of the medium, storytelling methods when using virtual reality for therapeutic purposes (e.g. healing and calming), and UX and technical considerations for designing and implementing VR in technology-constrained “play areas.”
 
 
 ### 6. Challenges to Completion
